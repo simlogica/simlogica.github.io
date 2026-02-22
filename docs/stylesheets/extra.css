@@ -1,20 +1,30 @@
-/* --- Dark Mode Header --- */
+/* --- SHARED VARIABLES --- */
+:root {
+  --brand-yellow: #ffca27;
+  --brand-yellow-light: #ff872b;
+  --brand-yellow-dark: #f5b000;
+}
+
+/* --- LIGHT MODE --- */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--brand-yellow);
+  --md-primary-fg-color--light: var(--brand-yellow-light);
+  --md-primary-fg-color--dark: var(--brand-yellow-dark);
+  --md-primary-bg-color: #222222; /* Dark text on yellow buttons/header */
+  --md-typeset-a-color: #d49a00;
+}
+
+/* --- DARK MODE --- */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--brand-yellow);
+  --md-primary-fg-color--light: var(--brand-yellow-light);
+  --md-primary-fg-color--dark: var(--brand-yellow-dark);
+  --md-primary-bg-color: #222222; /* Dark text on yellow buttons/header */
+  --md-accent-fg-color: var(--brand-yellow-light); /* Orange for hover contrast */
+}
+
 [data-md-color-scheme="slate"] .md-header {
-  background-color: #ffca27;
-  /* Change this to your dark-mode hex */
-  color: #1e2129;
-  /* This changes the text/icon color in the header */
-}
-
-/* --- Light Mode Header --- */
-[data-md-color-scheme="default"] .md-header {
-  background-color: #ffca27;
-  /* Change this to your light-mode hex */
-  color: #1e2129;
-  /* This changes the text/icon color in the header */
-}
-
-/* Optional: Ensure the search box and icons stay visible */
-.md-header__button {
-  color: inherit;
+  background-color: #1a1a1c;
+  color: var(--brand-yellow);
+  border-bottom: 1px solid var(--brand-yellow-dark);
 }

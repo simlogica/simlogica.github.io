@@ -1,4 +1,4 @@
-site_name: SimLogica
+site_name: SimLogica.com
 
 site_url: https://simlogica.github.io
 
@@ -23,10 +23,13 @@ theme:
   font:
     text: Roboto
     code: Red Hat Mono
-  icon:
-    logo: fontawesome/solid/s
+  logo: assets/simlogica.png
+  favicon: assets/simlogica.png
   features:
     - navigation.footer
+
+extra_css:
+  - stylesheets/extra.css
 
 copyright: Copyright &copy; 2026 SimLogica.com
 

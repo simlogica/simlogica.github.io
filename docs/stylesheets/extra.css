@@ -1,0 +1,20 @@
+/* --- Dark Mode Header --- */
+[data-md-color-scheme="slate"] .md-header {
+  background-color: #ffca27;
+  /* Change this to your dark-mode hex */
+  color: #1e2129;
+  /* This changes the text/icon color in the header */
+}
+
+/* --- Light Mode Header --- */
+[data-md-color-scheme="default"] .md-header {
+  background-color: #ffca27;
+  /* Change this to your light-mode hex */
+  color: #1e2129;
+  /* This changes the text/icon color in the header */
+}
+
+/* Optional: Ensure the search box and icons stay visible */
+.md-header__button {
+  color: inherit;
+}

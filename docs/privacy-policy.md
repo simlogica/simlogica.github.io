@@ -4,29 +4,34 @@
 
 **Effective Date:** February 22, 2026
 
-This **Privacy Policy** applies to the **SimLogica.com** website and the **Blocker** Android application, developed and maintained by the SimLogica.com team, a group of independent developers based in Brazil.
+This **Privacy Policy** applies to the **SimLogica.com** website and mobile applications, developed and maintained by the SimLogica.com team, a group of independent developers based in Brazil.
 
 This policy is designed to inform you regarding our policies on the collection, use, and disclosure of personal data. We operate with a strict **user-privacy-first mindset**.
 
 ### 1. Information Collection and Use
 
-The short answer is: **We do not collect, store, or transmit your personal data.** However, because Blocker is a paid application, we do receive limited information regarding your purchase from the app store platform.
+The short answer is: **We do not collect, store, or transmit your personal data.** However, for our paid applications we do receive limited information regarding your purchase from the app store platform.
 
 #### App Purchases (Google Play)
 
-When you purchase Blocker via the Google Play Store, Google processes your payment and shares limited transaction details with us through the Google Play Developer Console. This information includes your Google account email address, approximate location (country), and an order ID. We do not have access to your financial information (like credit card numbers).
+When you purchase one of our applications via the Google Play Store, Google processes your payment and shares limited transaction details with us through the Google Play Developer Console. This information includes your Google account email address, approximate location (country), and an order ID. 
 
-We use this provided email address strictly for:
+We use this provided email address strictly for these purposes:
 
+* Account Management.
 * Verifying purchases and issuing refunds if requested.
 * Providing customer support.
+* Authenticate you on our website and services.
 * Fulfilling tax and accounting obligations.
+* Legal and compliance.
 
-We will never use this email address to send you marketing campaigns, newsletters, or sell it to third parties.
+We do not collect, store, or use this email address to send you marketing campaigns, newsletters, or sell it to third parties. Nor we have access to your financial information (like credit card numbers).
 
 #### Blocker (Android App)
 
 Blocker is designed to function entirely on your device. We do not collect, save, or share any personal information, usage metrics, or analytics from the app. Any data required for the app to function remains locally on your device and is never transmitted to our servers or any third-party servers by us.
+
+Blocker requires specific Android permissions (such as Call Log access) to function. This access is used only locally on your device to identify or block calls and is never transmitted to us or any third party.
 
 #### SimLogica.com (Website)
 

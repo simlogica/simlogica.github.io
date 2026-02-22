@@ -1,0 +1,39 @@
+# =========================
+# MkDocs / Material
+# =========================
+# The default directory where MkDocs builds the static site
+site/
+
+# Cache directory (often used by Material for MkDocs plugins like 'social' cards)
+.cache/
+
+# =========================
+# Python
+# =========================
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Environment variables
+.env
+
+# =========================
+# OS / System
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDEs / Editors
+# =========================
+.idea/
+.vscode/
+*.swp
+*.swo

@@ -12,7 +12,7 @@ Blocker is an innovative way to deal with mobile phone calls.
 
 Let's face it, loud rings are a thing from the past!
 
-Blocker aims for a modern, non-disturbing, pleasant, and clever approach to handling incoming mobile phone calls.
+Blocker aims for a modern, non-disturbing, pleasant, and clever approach to handling incoming mobile phone calls with its **NOTIFY** feature.
 
 <img src="/assets/screen1.png" style="max-width: 40%; height: auto;" alt="Blocker Home screen">
 <img src="/assets/screen2.png" style="max-width: 40%; height: auto;" alt="Blocker Alerts screen">
@@ -33,6 +33,10 @@ Blocker **NOTIFY** feature replaces the old traditional loud-ringer with a conve
     :material-star: Drop immediately – *"I am not in the mood to talk"* option.
     {: style="font-size: 1.2em;" }
 
+All the calls that Blocker handles are shown in your **Phone Call App**. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
+
+Your call app will still show all notifications from received calls that you did not pick up.
+ 
 ### For what?
 
 Blocker was built with the purpose of letting you focus on what matters:

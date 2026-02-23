@@ -84,7 +84,7 @@ Also, we have grouped every call-related setting available in your phone within 
 
 Last but not least, Blocker is also lightweight, blazing fast and does not steal your data in any way, nor does it do any data collection.
 
-It is built with a user-privacy-first mindset design, and it has a tiny footprint. [Read our Privacy Policy](privacy-policy.md)
+It is built with a user-privacy-first mindset design, and it has a tiny footprint. [Read our Privacy Policy](privacy.md)
 
 ### Try Blocker
 

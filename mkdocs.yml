@@ -48,9 +48,15 @@ markdown_extensions:
   - pymdownx.details
   - admonition
 
+nav:
+  - Blocker App: index.md
+  - Configuring Blocker: configure.md
+  - FAQ: faq.md
+  - Privacy Policy: privacy.md
+  - Terms of Use: terms.md
+
 plugins:
   - search
-  # Redirect URLS
-  - redirects:
+  - redirects: # Redirect URLS
       redirect_maps:
         "r-blocker-android.md": "index.md" # Android App redirect URL

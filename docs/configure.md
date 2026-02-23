@@ -24,7 +24,7 @@ Blocker needs to be your device's **Caller ID and Antispam App** to be allowed t
 
 Under the hood, that will allow a tiny and fast native-coded Blocker internal service to be called by the Android System. This service will do its magic based on the rules and sounds you configured in Blocker.
 
-No data is collected, as we are never tired to repeat. Check our [Privacy Policy](privacy-policy.md)
+No data is collected, as we are never tired to repeat. Check our [Privacy Policy](privacy.md)
 
 ### Manually allowing Contacts Permission
 

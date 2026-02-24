@@ -1,8 +1,8 @@
 # Blocker App
 
-## Blocker Call Controller & Antispam App
-
 Welcome to **SimLogica**, the home of **Blocker Call Controller & Antispam App**
+
+## Blocker Call Controller & Antispam App
 
 <img src="/assets/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
 

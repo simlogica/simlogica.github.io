@@ -65,4 +65,4 @@ plugins:
       minify_html: true
   - redirects: # Redirect URLS
       redirect_maps:
-        "r-blocker-android.md": "index.md" # Android App redirect URL
+        "r-blocker-android.md": "faq.md" # Android App redirect URL

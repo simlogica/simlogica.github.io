@@ -1,5 +1,7 @@
 # FAQ
 
+<img src="/assets/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
+
 ## Frequently Asked Questions
 
 ### Is my data safe?
@@ -15,6 +17,16 @@ Read our [extremely easy guide](configure.md) on that.
 All calls that Blocker handles are shown in your **Phone Call App's** history. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
 
 Your call app will still show all notifications from received calls that you did not pick up.
+
+### Can Blocker rarely miss a call and let the phone ring by mistake?
+
+Yes. This happens because of Android, not Blocker.  Android sometimes fails to handle the call to blocker and rings anyway.
+
+This happens because of a few reasons. Heavy system load, device aggressive battery optimizations, processes dormancy.
+
+Make sure Blocker is not in an app dormant list.
+
+Some spammers may have GSM network privileged access and put calls with special flags, like an emergency call, that Android does not handle to Blocker. They also put two calls in a very fast sequency to trick Android. And the call firmware may sometimes not be fast and smart enough to deal with those exceptional and rare cases.
 
 ### Can I temporarily disable Blocker?
 

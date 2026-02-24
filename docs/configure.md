@@ -1,5 +1,7 @@
 # Configuring Blocker
 
+<img src="/assets/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
+
 ## Configuring Blocker Permissions
 
 Blocker needs two permissions from your Andoid Device to work properly.

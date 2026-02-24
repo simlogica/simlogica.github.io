@@ -1,5 +1,6 @@
 site_name: SimLogica.com
-
+site_description: The home of Blocker Call Controller and Antispam App.
+site_author: SimLogica.com
 site_url: https://simlogica.github.io
 
 theme:
@@ -27,6 +28,8 @@ theme:
   favicon: assets/simlogica.png
   features:
     - navigation.footer
+    - navigation.instant   # Transforms the site into a Single Page Application (SPA) for instant loading
+    - navigation.tracking  # Updates the URL with the anchor tag as the user scrolls
 
 extra_css:
   - stylesheets/extra.css
@@ -57,6 +60,9 @@ nav:
 
 plugins:
   - search
+  # - social TODO Later..
+  - minify:
+      minify_html: true
   - redirects: # Redirect URLS
       redirect_maps:
         "r-blocker-android.md": "index.md" # Android App redirect URL

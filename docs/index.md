@@ -23,12 +23,14 @@ Blocker aims for a modern, non-disturbing, pleasant, and clever approach to hand
 
 Blocker **NOTIFY** feature replaces the old traditional loud-ringer with a convenient and pleasant short sound and vibration, alongside the call notification on the screen.
 
-#### Selectively set incoming phone calls handling based on these groups
+**Selectively set incoming phone calls handling based on these groups**
+
 :material-star: Favorites<br>
 :material-star: Contacts<br>
 :material-star: Unknown numbers
 
-#### Let them
+**Let them**
+
 :material-star: Ring – Old intrusive way.<br>
 :material-star: **NOTIFY – Blocker new way!!**<br>
 :material-star: Drop immediately – *"I am not in the mood to talk"* option.

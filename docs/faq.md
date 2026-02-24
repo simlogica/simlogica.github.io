@@ -12,7 +12,7 @@ Read our [extremely easy guide](configure.md) on that.
 
 ### What happens with the calls that Blocker handles?
 
-All calls that Blocker handles are shown in your **Phone Call App**. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
+All calls that Blocker handles are shown in your **Phone Call App's** history. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
 
 Your call app will still show all notifications from received calls that you did not pick up.
 

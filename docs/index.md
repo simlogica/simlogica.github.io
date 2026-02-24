@@ -4,6 +4,8 @@
 
 Welcome to **SimLogica**, the home of **Blocker Call Controller & Antispam App**
 
+<img src="/assets/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
+
 [ :material-google-play: Get it on Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
 
 ### What is Blocker?
@@ -21,19 +23,17 @@ Blocker aims for a modern, non-disturbing, pleasant, and clever approach to hand
 
 Blocker **NOTIFY** feature replaces the old traditional loud-ringer with a convenient and pleasant short sound and vibration, alongside the call notification on the screen.
 
-!!! tip "Selectively set incoming phone calls handling based on these groups"
-    :material-star: Favorites<br>
-    :material-star: Contacts<br>
-    :material-star: Unknown numbers
-    {: style="font-size: 1.2em;" }
+#### Selectively set incoming phone calls handling based on these groups
+:material-star: Favorites<br>
+:material-star: Contacts<br>
+:material-star: Unknown numbers
 
-!!! tip "Let them"
-    :material-star: Ring – Old intrusive way.<br>
-    :material-star: **NOTIFY – Blocker new way!!**<br>
-    :material-star: Drop immediately – *"I am not in the mood to talk"* option.
-    {: style="font-size: 1.2em;" }
+#### Let them
+:material-star: Ring – Old intrusive way.<br>
+:material-star: **NOTIFY – Blocker new way!!**<br>
+:material-star: Drop immediately – *"I am not in the mood to talk"* option.
 
-All the calls that Blocker handles are shown in your **Phone Call App**. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
+All the calls that Blocker handles are shown in your **Phone Call App's** history. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
 
 Your call app will still show all notifications from received calls that you did not pick up.
  
@@ -82,7 +82,7 @@ Also, we have grouped every call-related setting available in your phone within 
 
 ### Privacy and Security
 
-Last but not least, Blocker is also lightweight, blazing fast and does not steal your data in any way, nor does it do any data collection.
+Last but not least, Blocker is also lightweight, blazing fast and does not collect or share your data.
 
 It is built with a user-privacy-first mindset design, and it has a tiny footprint. [Read our Privacy Policy](privacy.md)
 
@@ -96,8 +96,8 @@ Enjoy and please leave great reviews.
 
 ### Price
 
-It is free without any limitations to the core features. Just a pleasant reminder to support development may appear from time to time.
+It is free without limitations to the core features. A pleasant reminder to support development may appear from time to time and when using some features.
 
-If it is useful to you, please buy it for the **minimum price available at the Play Store** for your country and support us on updates and future development.
+If it is useful to you, please buy it with the in-app purchase button for the **minimum price available at the Play Store** for your country and support us on updates and future development.
 
 **Thank you**!

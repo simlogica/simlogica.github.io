@@ -4,7 +4,7 @@ Welcome to **SimLogica**, the home of **Blocker Call Controller & Antispam App**
 
 ## Blocker Call Controller & Antispam App
 
-<img src="/assets/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
+<img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
 
 [ :material-google-play: Get it on Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
 
@@ -16,8 +16,8 @@ Let's face it, loud rings are a thing from the past!
 
 Blocker aims for a modern, non-disturbing, pleasant, and clever approach to handling incoming mobile phone calls with its **NOTIFY** feature.
 
-<img src="/assets/screen1.png" style="max-width: 40%; height: auto;" alt="Blocker Home screen">
-<img src="/assets/screen2.png" style="max-width: 40%; height: auto;" alt="Blocker Alerts screen">
+<img src="/index/screen1.png" style="max-width: 40%; height: auto;" alt="Blocker Home screen">
+<img src="/index/screen2.png" style="max-width: 40%; height: auto;" alt="Blocker Alerts screen">
 
 ### How does it work?
 
@@ -80,13 +80,13 @@ Set unknown calls to the **NOTIFY** option, and you will have peace of mind with
 
 Also, we have grouped every call-related setting available in your phone within an organized fast to access menu. You don't need to fight the phone's complex default Settings app to set your call-related preferences anymore:
 
-<img src="/assets/screen3.png" style="max-width: 40%; height: auto;" alt="Blocker Settings screen">
+<img src="/index/screen3.png" style="max-width: 40%; height: auto;" alt="Blocker Settings screen">
 
 ### Privacy and Security
 
 Last but not least, Blocker is also lightweight, blazing fast and does not collect or share your data.
 
-It is built with a user-privacy-first mindset design, and it has a tiny footprint. [Read our Privacy Policy](privacy.md)
+It is built with a user-privacy-first mindset design, and it has a tiny footprint. [Read our Privacy Policy](privacy/privacy.md)
 
 ### Try Blocker
 

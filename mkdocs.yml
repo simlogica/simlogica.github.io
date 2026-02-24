@@ -22,14 +22,14 @@ theme:
       primary: custom
       accent: deep orange
   font:
-    text: Roboto
+    text: Inter
     code: Red Hat Mono
-  logo: assets/simlogica.png
-  favicon: assets/simlogica.png
+  logo: common/images/simlogica.png
+  favicon: common/images/simlogica.png
   features:
     - navigation.footer
-    - navigation.instant   # Transforms the site into a Single Page Application (SPA) for instant loading
-    - navigation.tracking  # Updates the URL with the anchor tag as the user scrolls
+    # - navigation.instant   # Transforms the site into a Single Page Application (SPA) for instant loading
+    # - navigation.tracking  # Updates the URL with the anchor tag as the user scrolls
 
 extra_css:
   - stylesheets/extra.css
@@ -53,16 +53,30 @@ markdown_extensions:
 
 nav:
   - Blocker App: index.md
-  - Configuring Blocker: configure.md
-  - FAQ: faq.md
-  - Privacy Policy: privacy.md
-  - Terms of Use: terms.md
+  - Configuring Blocker: configure/configure.md
+  - FAQ: faq/faq.md
+  - Privacy Policy: privacy/privacy.md
+  - Terms of Use: terms/terms.md
 
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix  # files like index.pt-BR.md, index.pt-PT.md
+      reconfigure_material: true  # auto-configures Material's lang & language switcher
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: pt
+          name: Português
+          build: true
+          fallback_to_default: true
   # - social TODO Later..
   - minify:
       minify_html: true
   - redirects: # Redirect URLS
       redirect_maps:
-        "r-blocker-android.md": "faq.md" # Android App redirect URL
+        "r-blocker-android.md": "faq.md"      # Android App redirects here
+        "r-privacy.md": "privacy/privacy.md"  # Google Play redirects here
+        "r-terms.md": "terms/terms.md"        # Google Play redirects here

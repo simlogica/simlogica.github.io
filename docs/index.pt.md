@@ -10,7 +10,7 @@ Bem vindo à **SimLogica**, criadora do **Blocker Call Controller & Antispam App
 
 ### O que é o Blocker?
 
-O Blocker é uma forma inovadora de lidar com chamadas telefónicas no telemóvel.
+O Blocker é uma forma inovadora de lidar com chamadas telefónicas em dispositivos móveis.
 
 Vamos ser sinceros, toques altos são coisa do passado!
 

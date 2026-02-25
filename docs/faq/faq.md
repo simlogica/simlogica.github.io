@@ -20,7 +20,7 @@ Your call app will still show all notifications from received calls that you did
 
 ### Can Blocker rarely miss a call and let the phone ring by mistake?
 
-Yes. This happens because of Android, not Blocker.  Android sometimes fails to handle the call to blocker and rings anyway.
+Unfortunately, yes. This happens because of Android, not Blocker.  Android sometimes fails to handle the call to blocker and rings anyway.
 
 This happens because of a few reasons. Heavy system load, device aggressive battery optimizations, processes dormancy.
 
@@ -36,7 +36,8 @@ But if for some reason you need Blocker temporarily not to intercept calls, go t
 
 Blocker will then show you the top banner asking your permission to be the "Caller ID and Antispam App" whenever you please to do so again.
 
-<img src="/index/screen3.png" style="max-width: 40%; height: auto;" alt="Blocker requesting Contacts access permission">
+<img src="/faq/settings_default_apps.png" style="max-width: 40%; height: auto;" alt="Accessing default apps">
+<img src="/faq/system_default_apps.png" style="max-width: 40%; height: auto;" alt="Android System default apps screen">
 
 ### How do I restore my purchase?
 

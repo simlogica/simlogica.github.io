@@ -30,7 +30,7 @@ O seu aplicativo de chamadas continuará a apresentar todas as notificações de
 
 ### O Blocker pode raramente deixar passar uma chamada e deixar o telefone tocar por engano?
 
-Sim. Isso acontece por causa do Android, não do Blocker. O Android às vezes falha em encaminhar a chamada ao Blocker e ela toca mesmo assim.
+Infelizmente, sim. Isso acontece por causa do Android, não do Blocker. O Android às vezes falha em encaminhar a chamada ao Blocker e ela toca mesmo assim.
 
 Isso ocorre por alguns motivos: alta carga do sistema, otimizações agressivas de bateria do dispositivo, dormência de processos.
 
@@ -46,7 +46,8 @@ Mas se por algum motivo você precisar que o Blocker não intercepte chamadas te
 
 O Blocker então mostrará o banner superior solicitando sua permissão para ser o "App de Identificação de Chamadas e Antispam" para sempre que desejar fazer isso novamente.
 
-<img src="/index/screen3.png" style="max-width: 40%; height: auto;" alt="Blocker solicitando permissão de acesso aos Contatos">
+<img src="/faq/settings_default_apps.png" style="max-width: 40%; height: auto;" alt="Acessando os apps padrões">
+<img src="/faq/system_default_apps.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã do Android para escolha dos apps padrões" >
 
 ### Como restauro minha compra?
 

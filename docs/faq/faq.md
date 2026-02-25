@@ -30,7 +30,7 @@ Some spammers may have GSM network privileged access and put calls with special 
 
 ### Can I temporarily disable Blocker?
 
-Yes. Let all call Ring is the easiest.
+Yes. Setting all calls to **RING** is the easiest way.
 
 But if for some reason you need Blocker temporarily not to intercept calls, go to **Settings → Default Apps → Caller ID and Antispam App** and chose **None** or another app for the moment.
 
@@ -40,7 +40,7 @@ Blocker will then show you the top banner asking your permission to be the "Call
 
 ### How do I restore my purchase?
 
-Go to **Settings > Account > Restore Purchase**. Make sure you are logged into the same Google account used to buy the app.
+Go to **Settings > Restore Purchase**. Make sure you are logged into the same Google account used to buy the app.
 
 ### What to do if the app is crashing?
 

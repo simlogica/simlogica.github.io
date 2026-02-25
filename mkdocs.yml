@@ -83,6 +83,6 @@ plugins:
       minify_html: true
   - redirects: # Redirect URLS
       redirect_maps:
-        "r-blocker-android.md": "faq.md"      # Android App redirects here
+        "r-blocker-android.md": "faq/faq.md"      # Android App redirects here
         "r-privacy.md": "privacy/privacy.md"  # Google Play redirects here
         "r-terms.md": "terms/terms.md"        # Google Play redirects here

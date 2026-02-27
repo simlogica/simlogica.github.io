@@ -23,17 +23,23 @@ Blocker aims for a modern, non-disturbing, pleasant, and clever approach to hand
 
 Blocker **NOTIFY** feature replaces the old traditional loud-ringer with a convenient and pleasant short sound and vibration, alongside the call notification on the screen.
 
-**Selectively set incoming phone calls handling based on these groups**
+**Selectively set incoming phone calls handling based on these groups**:
 
 :material-star: Favorites<br>
 :material-star: Contacts<br>
 :material-star: Unknown numbers
 
-**Let them**
+**Let them**:
 
 :material-star: Ring – Old intrusive way.<br>
 :material-star: **NOTIFY – Blocker new way!!**<br>
 :material-star: Drop immediately – *"I am not in the mood to talk"* option.
+
+**NOTIFY** silences the phone ringer but shows the phone visual notification.
+
+**DROP** sends calls directly to voicemail without lighting up the screen.
+
+If you Phone App has a built-in antispam, it may still block calls that Blocker would have allowed.
 
 All the calls that Blocker handles are shown in your **Phone Call App's** history. Blocker just gets in to prevent the call to **RING** for those groups you chose to **NOTIFY** and **DROP**.
 

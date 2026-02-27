@@ -18,6 +18,14 @@ All calls that Blocker handles are shown in your **Phone Call App's** history. B
 
 Your call app will still show all notifications from received calls that you did not pick up.
 
+### Can a call be identified as "UNKNOWN" by Blocker, but the Phone Call App shows it as a Contact?
+
+Yes. Some Phone Call Apps have a very "aggressive" strategy to identify contacts, which, by the way, can sometimes lead to a mismatch. Especially if the number in the Phone Book was recorded without the long-distance prefix.
+
+Blocker opts not to try to guess the contact name that way, to avoid unknown spam calls to be filtered as legitimate ones.
+
+Nowadays, most users save the complete number on their Phone Books, and we think that this strategy is the best way to avoid false positives.
+
 ### Can Blocker rarely miss a call and let the phone ring by mistake?
 
 Unfortunately, yes. This happens because of Android, not Blocker.  Android sometimes fails to handle the call to blocker and rings anyway.
@@ -27,6 +35,12 @@ This happens because of a few reasons. Heavy system load, device aggressive batt
 Make sure Blocker is not in an app dormant list.
 
 Some spammers may have GSM network privileged access and put calls with special flags, like an emergency call, that Android does not handle to Blocker. They also put two calls in a very fast sequency to trick Android. And the call firmware may sometimes not be fast and smart enough to deal with those exceptional and rare cases.
+
+### So Blocker isn't perfect, but it is worth it?
+
+YES!! For sure!! 100%. All the users we tested Blocker with before launching the App, reported starting to have a more healthy and peaceful relationship with mobile phone calls.
+
+It is a life changer for most of them. Don't take our word for granted. Try Blocker for a few days and see for yourself.
 
 ### Can I temporarily disable Blocker?
 

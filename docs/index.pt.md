@@ -23,17 +23,23 @@ O Blocker visa uma abordagem moderna, não perturbadora, agradável e inteligent
 
 O recurso **NOTIFICAR** do Blocker substitui o antigo toque alto tradicional por um som curto e agradável com vibração, acompanhado da notificação da chamada na tela/ecrã.
 
-**Configure seletivamente o tratamento das chamadas recebidas com base nestes grupos**
+**Configure seletivamente o tratamento das chamadas recebidas com base nestes grupos**:
 
 :material-star: Favoritos<br>
 :material-star: Contatos<br>
 :material-star: Números desconhecidos
 
-**Deixe-os**
+**Deixe-os**:
 
 :material-star: Tocar – O modo antigo e intrusivo.<br>
 :material-star: **NOTIFICAR – O novo modo do Blocker!!**<br>
 :material-star: Rejeitar imediatamente – opção *"Não estou com disposição para falar"*.
+
+**NOTIFICAR** silencia o som do aparelho mas mostra a notificação visual.
+
+**REJEITAR** envia chamadas diretamente para a caixa de voz sem acender a tela.
+
+Se o seu aplicativo de chamadas possui um bloqueador de spam embutido, ele pode ainda bloquear chamadas que o Blocker permitiria.
 
 Todas as chamadas que o Blocker gerencia são apresentadas no histórico do seu **Aplicativo de Chamadas**. O Blocker intervém apenas para impedir que a chamada TOQUE nos grupos que escolheu para **NOTIFICAR** e **REJEITAR**.
 

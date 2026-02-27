@@ -18,6 +18,14 @@ Todas as chamadas que o Blocker gerencia são apresentadas no histórico do seu 
 
 O seu aplicativo de chamadas continuará a apresentar todas as notificações de chamadas recebidas que você não atendeu.
 
+### Pode uma chamada ser identificada como "DESCONHECIDO" pelo Blocker, mas o Aplicativo de Chamadas mostra como um Contato legítimo?
+
+Sim. Alguns Aplicativos de Chamadas têm uma estratégia muito "agressiva" para identificar contatos, o que às vezes pode levar a um falso positivo. Em particular, se o número na agenda foi registrado sem o prefixo de longa distância.
+
+Blocker opta por não tentar adivinhar o nome do contato dessa forma, para evitar que chamadas de spam desconhecidas sejam filtradas como legítimas.
+
+Hoje em dia, a maioria dos usuários salva o número completo em suas agendas telefônicas, e pensamos que essa estratégia é a melhor para evitar falsos positivos.
+
 ### O Blocker pode raramente deixar passar uma chamada e deixar o telefone tocar por engano?
 
 Infelizmente, sim. Isso acontece por causa do Android, não do Blocker. O Android às vezes falha em encaminhar a chamada ao Blocker e ela toca mesmo assim.
@@ -27,6 +35,12 @@ Isso ocorre por alguns motivos: alta carga do sistema, otimizações agressivas 
 Certifique-se de que o Blocker não está numa lista de apps em modo dormência.
 
 Alguns spammers podem ter acesso privilegiado à rede GSM e realizar chamadas com marcadores especiais, como uma chamada de emergência, que o Android não encaminha ao Blocker. Eles também realizam duas chamadas em sequência muito rápida para enganar o Android. E o firmware de chamadas às vezes pode não ser rápido e inteligente o suficiente para lidar com esses casos excepcionais e raros.
+
+### Então o Blocker não é perfeito, mas vale a pena?
+
+SIM!! Com certeza!! 100%. Todos os usuários com quem testamos o Blocker antes de lançarmos o aplicativo relataram começar a ter uma relação mais saudável e tranquila com as chamadas de celular.
+
+É um divisor de águas para a maioria deles. Não tome nossa palavra como certeza. Tente o Blocker por alguns dias e veja por si mesmo.
 
 ### Posso desativar o Blocker temporariamente?
 

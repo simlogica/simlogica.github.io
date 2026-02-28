@@ -78,9 +78,11 @@ But not anymore if the incoming call is held by Blocker's **NOTIFY**. Blocker sh
 
 What about anti-spamming?
 
-Spammers are getting more and more aggressive around the world, and antispammers are just failing to deal with that. With blocker, they can't bother you anymore.
+Spammers are getting more and more aggressive around the world, and antispammers are just failing to deal with that. With blocker, they can't bother you any more.
 
-Set unknown calls to the **NOTIFY** option, and you will have peace of mind with Blocker's pleasant one-time short sound. No loud rings anymore.
+Set unknown calls to the **NOTIFY** option, and you will have peace of mind with Blocker's pleasant one-time short sound. No loud rings any more. If you are not expecting a call, there are no worries. Check recents later.
+
+That is why we consider Block an Antispam app, but not in the traditional sense. It is not a filter that tries to guess spam calls, it is just a different (and we think it is a more clever) approach to the issue.
 
 #### Call Settings Menu
 

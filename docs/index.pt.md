@@ -80,7 +80,9 @@ E quanto ao antispam?
 
 Os spammers estão se tornando cada vez mais agressivos em todo o mundo, e os antispammers estão falhando no combate a isso. Com o Blocker, eles não o poderão mais incomodar.
 
-Configure chamadas desconhecidas para a opção **NOTIFICAR**, e terá tranquilidade com o agradável som curto do Blocker. Sem toques altos.
+Configure chamadas desconhecidas para a opção **NOTIFICAR**, e terá tranquilidade com o agradável som curto do Blocker. Sem toques altos. Se não estiver esperando por uma chamada, não há preocupações. Verifique a lista de chamadas recentes mais tarde.
+
+É por isso que consideramos o Blocker um app Antispam, mas não em sentido tradicional. Não é um filtro que tenta adivinhar chamadas de spam, é apenas uma abordagem diferente (e pensamos que é uma abordagem mais inteligente) para o problema.
 
 #### Menu de Configurações de Chamadas
 

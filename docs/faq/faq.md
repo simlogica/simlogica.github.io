@@ -18,13 +18,15 @@ All calls that Blocker handles are shown in your **Phone Call App's** history. B
 
 Your call app will still show all notifications from received calls that you did not pick up.
 
+### What happens if my device is Muted or Do Not Disturb is On?
+
+Blocker follows your device's Mute or Do Not Disturb settings. If your device is muted or Do Not Disturb is on, Blocker will not play short sounds on incoming calls. And calls will not ring. Unless they are **PRIORITY CALLS**. This ensures that you are not disturbed by unwanted calls when you have set your device to a quiet mode.
+
+Blocker will follow your DND rules and also allow Emergency calls from Emergency Services.
+
 ### Can a call be identified as "UNKNOWN" by Blocker, but the Phone Call App shows it as a Contact?
 
-Yes. Some Phone Call Apps have a very "aggressive" strategy to identify contacts, which, by the way, can sometimes lead to a mismatch. Especially if the number in the Phone Book was recorded without the long-distance prefix.
-
-Blocker opts not to try to guess the contact name that way, to avoid unknown spam calls to be filtered as legitimate ones.
-
-Nowadays, most users save the complete number on their Phone Books, and we think that this strategy is the best way to avoid false positives.
+Very rarely, it is possible. Some Phone Call Apps have a very *aggressive* strategy to identify contacts, which, by the way, can sometimes lead to a mismatch. Especially if the number in the Phone Book was recorded without the long-distance prefix.
 
 ### Can Blocker rarely miss a call and let the phone ring by mistake?
 
@@ -60,3 +62,7 @@ Go to **Settings > Restore Purchase**. Make sure you are logged into the same Go
 ### What to do if the app is crashing?
 
 That should not be happening at all. Our apologies. Please try clearing the app cache or reinstalling it. If the issue persists, contact us specifying your device model and OS version. We will do our best to fix it as soon as possible.
+
+### Is Blocker an Antispam App?
+
+Yes, Blocker is an Antispam App. But not in the traditional sense. It is not a filter that tries to guess spam calls, it is just a different (and we think it is a more clever) approach to the issue. It's **NOTIFY** feature allows us to just ignore spam most of the time without much interference on what we are doing.

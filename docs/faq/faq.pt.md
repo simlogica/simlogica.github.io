@@ -18,13 +18,15 @@ Todas as chamadas que o Blocker gerencia são apresentadas no histórico do seu 
 
 O seu aplicativo de chamadas continuará a apresentar todas as notificações de chamadas recebidas que você não atendeu.
 
+### O que acontece se meu dispositivo estiver Mudo ou o Modo Não Perturbe estiver Ligado?
+
+O Blocker respeita as configurações de Mudo ou Não Perturbe do seu dispositivo. Se seu dispositivo estiver mudo ou o Modo Não Perturbe estiver ligado, Blocker não irá tocar um som curto nas chamadas recebidas. E as chamadas não irão tocar, a menos que sejam **CHAMADAS DE PRIORIDADE**. Isso garante que você não seja incomodado por chamadas indesejadas quando você configurou seu dispositivo para um modo silencioso.
+
+O Blocker irá seguir suas regras de Não Perturbe e também permitirá chamadas de emergência de serviços de emergência.
+
 ### Pode uma chamada ser identificada como "DESCONHECIDO" pelo Blocker, mas o Aplicativo de Chamadas mostra como um Contato legítimo?
 
-Sim. Alguns Aplicativos de Chamadas têm uma estratégia muito "agressiva" para identificar contatos, o que às vezes pode levar a um falso positivo. Em particular, se o número na agenda foi registrado sem o prefixo de longa distância.
-
-Blocker opta por não tentar adivinhar o nome do contato dessa forma, para evitar que chamadas de spam desconhecidas sejam filtradas como legítimas.
-
-Hoje em dia, a maioria dos usuários salva o número completo em suas agendas telefônicas, e pensamos que essa estratégia é a melhor para evitar falsos positivos.
+Muito raramente, é possível. Alguns Aplicativos de Chamadas têm uma estratégia muito *agressiva* para identificar contatos, o que às vezes pode levar a um falso positivo. Em particular, se o número na agenda foi registrado sem o prefixo de longa distância.
 
 ### O Blocker pode raramente deixar passar uma chamada e deixar o telefone tocar por engano?
 
@@ -60,3 +62,7 @@ Vá em **Configurações > Restaurar Compra**. Certifique-se de estar conectado 
 ### O que fazer se o app estiver travando?
 
 Isso não deveria acontecer de jeito nenhum. Pedimos desculpas. Por favor, tente limpar o cache do app ou reinstalá-lo. Se o problema persistir, entre em contato conosco informando o modelo do seu dispositivo e a versão do Android. Faremos o nosso melhor para resolver o mais rápido possível.
+
+### O Blocker é um App Antispam?
+
+Sim, o Blocker é um App Antispam. Mas não em um sentido tradicional. Ele não é um filtro que tenta adivinhar chamadas de spam, ele é apenas uma abordagem diferente (e achamos que é uma abordagem mais inteligente) para o problema. Sua função **NOTIFICAR** permite-nos ignorar spam na maioria das vezes sem muita interferência no que estamos fazendo.

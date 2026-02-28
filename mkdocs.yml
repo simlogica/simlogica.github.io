@@ -85,8 +85,10 @@ plugins:
       redirect_maps:
         # TO BE REMOVED!!
         "r-blocker-android.md": "index.md#what-is-blocker" # REMOVE THIS LATER!!! -------------------------- Android App redirects here
-        # REDIRECTS
-        "r/blocker-android-need-help.md": "index.md#what-is-blocker" # Android App NEED HELP BUTTON redirects here
-        "r/blocker-android-share.md": "index.md" # Android App SHARE BUTTON redirects here
         "r-privacy.md": "privacy/privacy.md" # Google Play redirects here
         "r-terms.md": "terms/terms.md" # Google Play redirects here
+        # REDIRECTS
+        "r/blocker-android/need-help.md": "index.md#what-is-blocker" # Android App NEED HELP BUTTON redirects here
+        "r/blocker-android/share.md": "index.md" # Android App SHARE BUTTON redirects here
+        "r/blocker-googleplay/privacy.md": "privacy/privacy.md" # Google Play redirects here
+        "r/blocker-googleplay/terms.md": "terms/terms.md" # Google Play redirects here

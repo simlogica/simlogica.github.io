@@ -89,6 +89,7 @@ plugins:
         "r-terms.md": "terms/terms.md" # Google Play redirects here
         # REDIRECTS
         "r/blocker-android/need-help.md": "index.md#what-is-blocker" # Android App NEED HELP BUTTON redirects here
+        "r/blocker-android/privacy.md": "privacy/privacy.md" # Android App PRIVACY BUTTON redirects here
         "r/blocker-android/share.md": "index.md" # Android App SHARE BUTTON redirects here
         "r/blocker-googleplay/privacy.md": "privacy/privacy.md" # Google Play redirects here
-        "r/blocker-googleplay/terms.md": "terms/terms.md" # Google Play redirects here
+        "r/blocker-googleplay/terms.md": "terms/terms.md" # Google Play redirects here (??? could not confirm..) -------------------!!!!!!!!!!!

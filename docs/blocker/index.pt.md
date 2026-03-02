@@ -1,6 +1,8 @@
 # Blocker App
 
-Bem vindo à **SimLogica**, criadora do **Blocker Call Controller & Antispam App**
+Welcome to **SimLogica**, the home of **Blocker Call Controller** and arguably an Antispam App
+
+Bem vindo à **SimLogica**, criadora do **Blocker Controlador de Chamadas** e indiscutivelmente um App Antispam
 
 ## Blocker Call Controller & Antispam App
 
@@ -14,14 +16,14 @@ O Blocker é uma forma inovadora de lidar com chamadas telefônicas em dispositi
 
 Vamos ser sinceros, toques altos são coisa do passado!
 
-O Blocker visa uma abordagem moderna, não perturbadora, agradável e inteligente para gerir chamadas telefônicas recebidas com o seu recurso **NOTIFICAR**.
+O Blocker visa uma abordagem moderna, discreta, agradável e inteligente para gerir chamadas telefônicas recebidas com o seu recurso **NOTIFICAR**.
 
 <img src="/blocker/screen1.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã inicial do Blocker">
 <img src="/blocker/screen2.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã de alertas do Blocker">
 
 ### Como funciona?
 
-O recurso **NOTIFICAR** do Blocker substitui o antigo toque alto tradicional por um som curto e agradável com vibração, acompanhado da notificação da chamada na tela/ecrã.
+Apresentamos o recurso **NOTIFICAR** do Blocker! Ele substitui o antigo toque alto tradicional por um som curto e agradável com vibração, acompanhado da notificação da chamada na tela/ecrã.
 
 **Configure seletivamente o tratamento das chamadas recebidas com base nestes grupos**:
 
@@ -29,7 +31,7 @@ O recurso **NOTIFICAR** do Blocker substitui o antigo toque alto tradicional por
 :material-star: Contatos<br>
 :material-star: Números desconhecidos
 
-**Deixe-os**:
+**Permita que eles**:
 
 :material-star: Tocar – O modo antigo e intrusivo.<br>
 :material-star: **NOTIFICAR – O novo modo do Blocker!!**<br>
@@ -47,7 +49,7 @@ O seu aplicativo de chamadas continuará a apresentar todas as notificações de
  
 ### Finalidades?
 
-Blocker foi construído para permitir que você se concentre no que importa:
+Blocker foi criador para permitir que você se concentre no que importa:
 
 :material-arrow-right-bold: Estudar<br>
 :material-arrow-right-bold: Trabalhar<br>
@@ -58,7 +60,7 @@ Blocker foi construído para permitir que você se concentre no que importa:
 :material-arrow-right-bold: Ser notificado agradavelmente de uma chamada recebida durante uma reunião<br>
 :material-arrow-right-bold: Descansar<br>
 
-Voce escolhe. Convenientemente configure o nível apropriado de interferência com as opções de tratamento de chamadas do Blocker para cada ocasião.
+A escolha é sua. Convenientemente configure o nível apropriado de interferência com as opções de tratamento de chamadas do Blocker para cada ocasião.
 
 ### Para quem?
 

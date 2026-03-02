@@ -1,6 +1,6 @@
 # Blocker App
 
-Welcome to **SimLogica**, the home of **Blocker Call Controller & Antispam App**
+Welcome to **SimLogica**, the home of **Blocker Call Controller** and arguably an Antispam App
 
 ## Blocker Call Controller & Antispam App
 
@@ -21,7 +21,7 @@ Blocker aims for a modern, non-disturbing, pleasant, and clever approach to hand
 
 ### How does it work?
 
-Blocker **NOTIFY** feature replaces the old traditional loud-ringer with a convenient and pleasant short sound and vibration, alongside the call notification on the screen.
+We present the Blocker **NOTIFY** feature! It replaces the old traditional loud-ringer of mobile phone calls with a convenient and pleasant short sound and vibration, alongside the call notification on the screen, for each of your contact's groups. Whenever you want.
 
 **Selectively set incoming phone calls handling based on these groups**:
 
@@ -58,7 +58,7 @@ Blocker was built with the purpose of letting you focus on what matters:
 :material-arrow-right-bold: Be pleasantly alerted of an incoming call during a meeting<br>
 :material-arrow-right-bold: Get a rest<br>
 
-You name it. Conveniently set the adequate level of interference with Blocker call handling options for each occasion.
+It is your choice. Conveniently set the adequate level of interference with Blocker call handling options for each occasion.
 
 ### For whom?
 

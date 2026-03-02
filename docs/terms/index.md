@@ -55,7 +55,7 @@ This includes, but is not limited to, damages for loss of data, loss of device f
 
 ### 7. Privacy
 
-Your privacy is incredibly important to us. Our [Privacy Policy](../privacy/privacy.md) strictly governs our data handling practices. By agreeing to these Terms of Use, you also acknowledge that you have read and understand our Privacy Policy, which states that our software operates locally and collects no personal usage data.
+Your privacy is incredibly important to us. Our [Privacy Policy](../privacy/index.md) strictly governs our data handling practices. By agreeing to these Terms of Use, you also acknowledge that you have read and understand our Privacy Policy, which states that our software operates locally and collects no personal usage data.
 
 ### 8. Governing Law
 

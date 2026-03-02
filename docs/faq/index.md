@@ -6,11 +6,11 @@
 
 ### Is my data safe?
 
-Yes, all data is stored locally on your device and protected by Android's system. We do not upload your personal data to any server. Read more in our [Privacy Policy](../privacy/privacy.md).
+Yes, all data is stored locally on your device and protected by Android's system. We do not upload your personal data to any server. Read more in our [Privacy Policy](../privacy/index.md).
 
 ### How do I configure the necessary Android Permissions?
 
-Read our [extremely easy guide](../configure/configure.md) on that.
+Read our [extremely easy guide](../configure/index.md) on that.
 
 ### What happens with the calls that Blocker handles?
 
@@ -23,6 +23,10 @@ Your call app will still show all notifications from received calls that you did
 Blocker follows your device's Mute or Do Not Disturb settings. If your device is muted or Do Not Disturb is on, Blocker will not play short sounds on incoming calls. And calls will not ring. Unless they are **PRIORITY CALLS**. This ensures that you are not disturbed by unwanted calls when you have set your device to a quiet mode.
 
 Blocker will follow your DND rules and also allow Emergency calls from Emergency Services.
+
+### Does Block filter WhatsApp or Teams calls?
+
+Currently, Blocker does not filter WhatsApp or Teams calls, nor any other call from apps. It only handles phone calls.
 
 ### Can a call be identified as "UNKNOWN" by Blocker, but the Phone Call App shows it as a Contact?
 

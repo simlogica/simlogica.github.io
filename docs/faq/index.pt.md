@@ -6,11 +6,11 @@
 
 ### Meus dados estão seguros?
 
-Sim, todos os dados são armazenados localmente no seu dispositivo e protegidos pelo sistema do Android. Não enviamos os seus dados pessoais para nenhum servidor. Leia mais na nossa [Política de Privacidade](../privacy/privacy.md).
+Sim, todos os dados são armazenados localmente no seu dispositivo e protegidos pelo sistema do Android. Não enviamos os seus dados pessoais para nenhum servidor. Leia mais na nossa [Política de Privacidade](../privacy/index.md).
 
 ### Como configuro as Permissões do Android?
 
-Leia nosso [guia extremamente fácil](../configure/configure.md) sobre isso.
+Leia nosso [guia extremamente fácil](../configure/index.md) sobre isso.
 
 ### O que acontece com as chamadas que o Blocker gerencia?
 
@@ -23,6 +23,10 @@ O seu aplicativo de chamadas continuará a apresentar todas as notificações de
 O Blocker respeita as configurações de Mudo ou Não Perturbe do seu dispositivo. Se seu dispositivo estiver mudo ou o Modo Não Perturbe estiver ligado, Blocker não irá tocar um som curto nas chamadas recebidas. E as chamadas não irão tocar, a menos que sejam **CHAMADAS DE PRIORIDADE**. Isso garante que você não seja incomodado por chamadas indesejadas quando você configurou seu dispositivo para um modo silencioso.
 
 O Blocker irá seguir suas regras de Não Perturbe e também permitirá chamadas de emergência de serviços de emergência.
+
+### O Blocker filtra chamadas de WhatsApp ou Teams?
+
+No momento, o Blocker não filtra chamadas de WhatsApp ou Teams, nem de qualquer outra chamada proveniente de aplicativos. Ele apenas lida com chamadas telefônicas.
 
 ### Pode uma chamada ser identificada como "DESCONHECIDO" pelo Blocker, mas o Aplicativo de Chamadas mostra como um Contato legítimo?
 

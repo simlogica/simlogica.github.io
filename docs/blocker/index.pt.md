@@ -10,14 +10,14 @@ Bem vindo à **SimLogica**, criadora do **Blocker Call Controller & Antispam App
 
 ### O que é o Blocker?
 
-O Blocker é uma forma inovadora de lidar com chamadas telefónicas em dispositivos móveis.
+O Blocker é uma forma inovadora de lidar com chamadas telefônicas em dispositivos móveis.
 
 Vamos ser sinceros, toques altos são coisa do passado!
 
 O Blocker visa uma abordagem moderna, não perturbadora, agradável e inteligente para gerir chamadas telefônicas recebidas com o seu recurso **NOTIFICAR**.
 
-<img src="/index/screen1.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã inicial do Blocker">
-<img src="/index/screen2.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã de alertas do Blocker">
+<img src="/blocker/screen1.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã inicial do Blocker">
+<img src="/blocker/screen2.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã de alertas do Blocker">
 
 ### Como funciona?
 
@@ -88,13 +88,13 @@ Configure chamadas desconhecidas para a opção **NOTIFICAR**, e terá tranquili
 
 Além disso, agrupamos todas as configurações relacionadas a chamadas móveis em um menu organizado e de acesso rápido. Não é necessário mais lutar com o complexo aplicativo de Definições padrão do dispositivo para configurar as suas preferências de chamadas:
 
-<img src="/index/screen3.png" style="max-width: 40%; height: auto;" alt="Tela/Ecrã de configurações do Blocker">
+<img src="/blocker/screen3.png" style="max-width: 40%; height: auto;" alt="Tela/Ecrã de configurações do Blocker">
 
 ### Privacidade e Segurança
 
 Por último, mas não menos importante, o Blocker é também leve, extremamente rápido e não recolhe nem partilha os seus dados.
 
-Foi desenvolvido com uma filosofia que coloca a privacidade do utilizador em primeiro lugar e tem um impacto mínimo no sistema. [Leia a nossa Política de Privacidade](privacy/privacy.md)
+Foi desenvolvido com uma filosofia que coloca a privacidade do utilizador em primeiro lugar e tem um impacto mínimo no sistema. [Leia a nossa Política de Privacidade](../privacy/index.md)
 
 ### Experimente o Blocker
 

@@ -1,0 +1,23 @@
+
+{% if config.theme.logo %}
+<img src="{{ config.theme.logo | url }}" alt="logo">
+{% else %}
+{% set icon = config.theme.icon.logo or "material/library" %}
+{% include ".icons/" ~ icon ~ ".svg" %}
+{% endif %}
+
+<script>
+    (function() {
+      var logo = document.currentScript.previousElementSibling;
+      while (logo && logo.nodeType !== 1) logo = logo.previousElementSibling;
+      var link = logo ? logo.closest('a') : null;
+      if (link) {
+        var locale = "{{ i18n_page_locale }}";
+        if (locale && locale !== "en") {
+          link.href = "/" + locale + "/blocker/";
+        } else {
+          link.href = "/blocker/";
+        }
+      }
+    })();
+</script>

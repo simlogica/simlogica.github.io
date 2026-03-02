@@ -26,7 +26,7 @@ O Blocker precisa ser o **App de Identificação de Chamadas e Antispam** do seu
 
 Internamente, isso permitirá que um serviço do Blocker, pequeno e rápido, desenvolvido em código nativo, seja acionado pelo Sistema Android. Esse serviço fará a sua mágica com base nas regras e sons que você configurou no Blocker.
 
-Nenhum dado é coletado, como nunca nos cansamos de repetir. Confira a nossa [Política de Privacidade](../privacy/privacy.md)
+Nenhum dado é coletado, como nunca nos cansamos de repetir. Confira a nossa [Política de Privacidade](../privacy/index.md)
 
 ### Concedendo manualmente a Permissão de Contatos
 

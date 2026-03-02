@@ -1,10 +1,11 @@
 site_name: SimLogica.com
 site_description: The home of Blocker Call Controller and Antispam App.
 site_author: SimLogica.com
-site_url: https://simlogica.github.io
+site_url: https://simlogica.github.io/
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     # Dark Mode
     - scheme: slate
@@ -52,11 +53,11 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Blocker App: index.md
-  - FAQ: faq/faq.md
-  - Configuring Blocker: configure/configure.md
-  - Privacy Policy: privacy/privacy.md
-  - Terms of Use: terms/terms.md
+  - Blocker App: blocker/index.md
+  - FAQ: faq/index.md
+  - Configuring Blocker: configure/index.md
+  - Privacy Policy: privacy/index.md
+  - Terms of Use: terms/index.md
 
 plugins:
   - search
@@ -65,31 +66,33 @@ plugins:
       reconfigure_material: true  # autoconfigures Material's lang & language switcher
       languages:
         - locale: en
-          default: true
           name: English
           build: true
+          default: true
         - locale: pt
           name: Português
           build: true
-          fallback_to_default: true
+          site_description: Criadores do Blocker Call Controller e Antispam App.
           nav_translations:
             Blocker App: App Blocker
             Configuring Blocker: Configurando o Blocker
             FAQ: Dúvidas Frequentes
             Privacy Policy: Política de Privacidade
             Terms of Use: Termos de Uso
-  # - social TODO Later..
+  - social:
+      cards_layout: default
   - minify:
       minify_html: true
   - redirects: # Redirect URLS
       redirect_maps:
+        # "index.md": "blocker/index.md"
         # TO BE REMOVED!!
         "r-blocker-android.md": "index.md#what-is-blocker" # REMOVE THIS LATER!!! -------------------------- Android App redirects here
-        "r-privacy.md": "privacy/privacy.md" # Google Play redirects here
-        "r-terms.md": "terms/terms.md" # Google Play redirects here
+        "r-privacy.md": "privacy/index.md" # Google Play redirects here
+        "r-terms.md": "terms/index.md" # Google Play redirects here
         # REDIRECTS
         "r/blocker-android/help.md": "index.md#what-is-blocker" # Android App NEED HELP BUTTON redirects here
-        "r/blocker-android/privacy.md": "privacy/privacy.md" # Android App PRIVACY BUTTON redirects here
+        "r/blocker-android/privacy.md": "privacy/index.md" # Android App PRIVACY BUTTON redirects here
         "r/blocker-android/share.md": "index.md" # Android App SHARE BUTTON redirects here
-        "r/blocker-googleplay/privacy.md": "privacy/privacy.md" # Google Play redirects here
-        "r/blocker-googleplay/terms.md": "terms/terms.md" # Google Play redirects here (??? could not confirm..) -------------------!!!!!!!!!!!
+        "r/blocker-googleplay/privacy.md": "privacy/index.md" # Google Play redirects here
+        "r/blocker-googleplay/terms.md": "terms/index.md" # Google Play redirects here (??? could not confirm..) -------------------!!!!!!!!!!!

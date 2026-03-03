@@ -1,6 +1,8 @@
 # Blocker App
 
-Welcome to **SimLogica**, the home of **Blocker Call Controller** and arguably an Antispam App
+Welcome to **SimLogica**, the home of **Blocker Call Controller**.
+
+Blocker transforms annoying phone calls into pleasant notifications.
 
 ## Blocker Call Controller & Antispam App
 
@@ -84,11 +86,11 @@ Spammers are getting more and more aggressive around the world, and antispammers
 
 Set unknown calls to the **NOTIFY** option, and you will have peace of mind with Blocker's pleasant one-time short sound. No loud rings any more. If you are not expecting a call, there are no worries. Check recents later.
 
-That is why we consider Block an Antispam app, but not in the traditional sense. It is not a filter that tries to guess spam calls, it is just a different (and we think it is a more clever) approach to the issue.
+That is why we consider Block also an Antispam app, but not in the traditional sense. It is not a filter that tries to guess if an incoming call is a spam or not, but a different (and we think it is more clever) approach to the issue.
 
 #### Call Settings Menu
 
-Also, we have grouped every call-related setting available in your phone within an organized fast to access menu. You don't need to fight the phone's complex default Settings app to set your call-related preferences anymore:
+Also, we have grouped every call-related setting available in your phone within an organized fast to access menu. You don't need to fight the phone's complex default Settings app to set your call-related preferences any more:
 
 <img src="/blocker/screen3.png" style="max-width: 40%; height: auto;" alt="Blocker Settings screen">
 

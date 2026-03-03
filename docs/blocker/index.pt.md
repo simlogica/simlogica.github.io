@@ -1,8 +1,8 @@
 # Blocker App
 
-Welcome to **SimLogica**, the home of **Blocker Call Controller** and arguably an Antispam App
+Bem vindo à **SimLogica**, criadora do **Blocker Controlador de Chamadas**.
 
-Bem vindo à **SimLogica**, criadora do **Blocker Controlador de Chamadas** e indiscutivelmente um App Antispam
+O Blocker transforma chamadas telefônicas perturbadoras em notificações agradáveis.
 
 ## Blocker Call Controller & Antispam App
 
@@ -86,7 +86,7 @@ Os spammers estão se tornando cada vez mais agressivos em todo o mundo, e os an
 
 Configure chamadas desconhecidas para a opção **NOTIFICAR**, e terá tranquilidade com o agradável som curto do Blocker. Sem toques altos. Se não estiver esperando por uma chamada, não há preocupações. Verifique a lista de chamadas recentes mais tarde.
 
-É por isso que consideramos o Blocker um app Antispam, mas não em sentido tradicional. Não é um filtro que tenta adivinhar chamadas de spam, é apenas uma abordagem diferente (e pensamos que é uma abordagem mais inteligente) para o problema.
+É por isso que consideramos o Blocker também um app Antispam, mas não em sentido tradicional. Não é um filtro que tenta adivinhar se chamadas são spam ou não, mas uma abordagem diferente (e pensamos que é uma abordagem mais inteligente) para o problema.
 
 #### Menu de Configurações de Chamadas
 

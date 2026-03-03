@@ -41,7 +41,7 @@ Blocker is an essential app for virtually anybody on the planet that has an Andr
 
 Blocker <b>NOTIFY</b> feature is also amazingly helpful when you are in an app's call, and you receive a mobile phone call. Usually your Bluetooth headset will go nuts with the incoming call. But not any more if the incoming call is held by Blocker's <b>NOTIFY</b>. Blocker short sound will be fast played, and you won't get sound blocked by the incoming call in your Bluetooth headset.
 
-<b>What about anti-spamming?</b> Spammers are getting more and more anoying around the world, and antispammers are just failing to deal with that. Either allowing false positives to ring or filtering legitime callers.
+<b>What about anti-spamming?</b> Spammers are getting more and more annoying around the world, and antispammers are just failing to deal with that. Either allowing false positives to ring or filtering legitime callers.
 
 With the Blocker's new approach to phone calls, this is not an issue any more if you set <b>UNKNOWN</b> calls to the <b>NOTIFY</b> option. You get peace of mind with Blocker's pleasant one-time short sound. No loud rings to bother you.
 

@@ -25,6 +25,8 @@ O Blocker visa uma abordagem moderna, discreta, agradável e inteligente para ge
 
 Apresentamos o recurso **NOTIFICAR** do Blocker! Ele substitui o antigo toque alto tradicional por um som curto e agradável com vibração, acompanhado da notificação da chamada na tela/ecrã.
 
+Transforme chamadas telefônicas perturbadoras em notificações agradáveis.
+
 **Configure seletivamente o tratamento das chamadas recebidas com base nestes grupos**:
 
 :material-star: Favoritos<br>

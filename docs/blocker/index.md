@@ -23,6 +23,8 @@ Blocker aims for a modern, non-disturbing, pleasant, and clever approach to hand
 
 We present the Blocker **NOTIFY** feature! It replaces the old traditional loud-ringer of mobile phone calls with a convenient and pleasant short sound and vibration, alongside the call notification on the screen, for each of your contact's groups. Whenever you want.
 
+Transform annoying phone calls into pleasant notifications.
+
 **Selectively set incoming phone calls handling based on these groups**:
 
 :material-star: Favorites<br>

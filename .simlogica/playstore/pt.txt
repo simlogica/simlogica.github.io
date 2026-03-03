@@ -1,13 +1,15 @@
-== Blocker Controlador de Chamadas
-== O Blocker é uma forma inovadora de gerir as chamadas do seu dispositivo móvel.
+== Blocker Controle de Chamadas
+== Blocker transforma chamadas telefônicas perturbadoras em notificações agradáveis.
 
-O <b>Blocker</b> é uma forma inovadora de lidar com chamadas em dispositivos móveis.
+O <b>Blocker</b> é uma forma inovadora de lidar com chamadas telefônicas em dispositivos móveis.
 
 Toques altos são coisa do passado!
 
-O Blocker visa uma abordagem moderna, não perturbadora, agradável e inteligente para gerir chamadas telefônicas recebidas com o seu recurso <b>NOTIFICAR</b>.
+O Blocker visa uma abordagem moderna, não intrusiva, agradável e inteligente para gerir chamadas recebidas com o seu recurso <b>NOTIFICAR</b>.
 
 O Blocker substitui o tradicional toque alto e ruidoso do telefone por um som curto e agradável, acompanhado de vibração e da notificação de chamada na <b>tela/ecrã</b>, para cada um dos seus grupos de contatos. Sempre que preciso.
+
+Transforme chamadas telefônicas perturbadoras em notificações agradáveis.
 
 <b>Como funciona?</b>
 
@@ -21,7 +23,7 @@ Escolha entre:
 ⇒ <b>NOTIFICAR</b> – A nova forma do Blocker!!
 ⇒ <b>DESLIGAR imediatamente</b> – A opção "não estou disponível para falar".
 
-Todas as chamadas que o Blocker gere aparecem no histórico do seu <b>App de Telefone</b>. O Blocker intervém apenas para evitar que o dispositivo venha a <b>TOCAR</b> nos grupos que você escolheu para as opções <b>NOTIFICAR</b> ou <b>DESLIGAR</b>. O seu aplicativo de chamadas continuará a mostrar todas as notificações de chamadas recebidas que não foram atendidas.
+Todas as chamadas que o Blocker gerencia aparecem no histórico do seu <b>App de Telefone</b>. O Blocker intervém apenas para evitar que o dispositivo venha a <b>TOCAR</b> nos grupos que você escolheu para as opções <b>NOTIFICAR</b> ou <b>DESLIGAR</b>. O seu aplicativo de chamadas continuará a mostrar todas as notificações de chamadas recebidas que não foram atendidas.
 
 O Blocker foi desenvolvido com o propósito de permitir que você foque no que importa:
 ⇒ Estudar
@@ -39,17 +41,17 @@ O Blocker é um aplicativo essencial para praticamente qualquer pessoa no planet
 
 O recurso <b>NOTIFICAR</b> do Blocker é também incrivelmente útil quando você está numa chamada de outro aplicativo e recebe uma chamada de rede móvel. Normalmente, os fones/auriculares Bluetooth ficam desorientados com a nova chamada. Com o <b>NOTIFICAR</b> do Blocker, isso deixa de acontecer. O som curto do Blocker é reproduzido rapidamente e o áudio no seu dispositivo Bluetooth não será bloqueado pela chamada recebida.
 
-<b>E quanto ao anti-spam?</b> Os autores de spam estão tornando-se cada vez mais agressivos em todo o mundo, e as soluções tradicionais não têm sido eficazes. Tanto permitem falsos positivos quanto filtram ligações de origens legítimas.
+<b>E quanto ao anti-spam?</b> Os autores de spam estão tornando-se cada vez mais incômodos em todo o mundo, e as soluções tradicionais não têm sido eficazes. Tanto permitem falsos positivos quanto filtram ligações de origens legítimas.
 
 Com a nova abordagem do Blocker, eles não podem mais incomodar. Defina as chamadas de números <b>DESCONHECIDOS</b> para a opção <b>NOTIFICAR</b> e tenha tranquilidade com o som curto e agradável do Blocker. Acabaram-se os toques ruidosos.
 
 Atenda apenas quando for conveniente, ou deixe as chamadas de spam preencherem seu histórico de chamadas recentes. Eles estarão lá caso você precise por algum motivo retornar a chamada.
 
-Além disso, agrupamos todas as configurações/definições de chamadas disponíveis no seu dispositivo num menu organizado e de acesso rápido. Você não precisa mais navegar pelas complexas configurações padrão do sistema para configurar as suas preferências de chamadas.
+Além disso, agrupamos todas as definições de chamadas disponíveis no seu dispositivo num menu organizado e de acesso rápido. Você não precisa mais navegar pelas complexas configurações do sistema para configurar as suas preferências de chamadas.
 
-O Blocker é também leve, extremamente rápido e não coleta nem compartilha os seus dados. Foi desenvolvido com um design focado na <b>privacidade do usuário/utilizador</b> e ocupa o mínimo de espaço possível.
+O Blocker é também leve, extremamente rápido e não coleta nem compartilha os seus dados. Foi desenvolvido com um design focado na <b>privacidade</b> e ocupa o mínimo de espaço possível.
 
-Experimente uma nova forma, mais saudável, de lidar com as chamadas. Uma nova forma em que o controle/controlo está, calmamente, nas suas mãos.
+Experimente uma nova forma, mais saudável, de lidar com as chamadas. Uma nova forma em que o controle está, calmamente, nas suas mãos.
 
 O aplicativo é gratuito e sem limitações nas funcionalidades principais. Um lembrete amigável para apoiar o desenvolvimento poderá aparecer ocasionalmente ou ao utilizar certas funções.
 

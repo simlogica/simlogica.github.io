@@ -1,13 +1,15 @@
 == Blocker Call Controller
-== Blocker is an innovative way to handle mobile phone calls.
+== Blocker transforms annoying phone calls into pleasant notifications.
 
-<b>Blocker</b> is an innovative way to handle mobile phone calls.
+<b>Blocker</b> is an innovative way to handle incoming mobile phone calls.
 
 Loud rings are a thing from the past!
 
 Blocker aims for a modern, non-disturbing, pleasant, and clever approach to handling incoming mobile phone calls with its <b>NOTIFY</b> feature.
 
 Blocker replaces the old traditional loud-ringer of mobile phone calls with a convenient and pleasant short sound and vibration, alongside the call notification on the screen, for each of your contact's groups. Whenever you want.
+
+Transform annoying phone calls into pleasant notifications.
 
 <b>How does it work?</b>
 
@@ -37,9 +39,9 @@ You name it. Conveniently set the adequate level of interference with Blocker ca
 
 Blocker is an essential app for virtually anybody on the planet that has an Android phone.
 
-Blocker <b>NOTIFY</b> feature is also amazingly helpful when you are in an app's call, and you receive a mobile phone call. Usually your Bluetooth headset will go nuts with the incoming call. But not anymore if the incoming call is held by Blocker's <b>NOTIFY</b>. Blocker short sound will be fast played, and you won't get sound blocked by the incoming call in your Bluetooth headset.
+Blocker <b>NOTIFY</b> feature is also amazingly helpful when you are in an app's call, and you receive a mobile phone call. Usually your Bluetooth headset will go nuts with the incoming call. But not any more if the incoming call is held by Blocker's <b>NOTIFY</b>. Blocker short sound will be fast played, and you won't get sound blocked by the incoming call in your Bluetooth headset.
 
-<b>What about anti-spamming?</b> Spammers are getting more and more aggressive around the world, and antispammers are just failing to deal with that. Either allowing false positives to ring or filtering legitime callers.
+<b>What about anti-spamming?</b> Spammers are getting more and more anoying around the world, and antispammers are just failing to deal with that. Either allowing false positives to ring or filtering legitime callers.
 
 With the Blocker's new approach to phone calls, this is not an issue any more if you set <b>UNKNOWN</b> calls to the <b>NOTIFY</b> option. You get peace of mind with Blocker's pleasant one-time short sound. No loud rings to bother you.
 

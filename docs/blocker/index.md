@@ -4,7 +4,7 @@ Welcome to **SimLogica**, the home of **Blocker Call Controller**.
 
 Blocker transforms annoying phone calls into pleasant notifications.
 
-## Blocker Call Controller & Antispam App
+## Blocker Call Controller
 
 <img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
 

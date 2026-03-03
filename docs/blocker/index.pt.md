@@ -1,10 +1,10 @@
 # Blocker App
 
-Bem vindo à **SimLogica**, criadora do **Blocker Controlador de Chamadas**.
+Bem vindo à **SimLogica**, criadora do **Blocker Controle de Chamadas**.
 
 O Blocker transforma chamadas telefônicas perturbadoras em notificações agradáveis.
 
-## Blocker Call Controller & Antispam App
+## Blocker Controle de Chamadas
 
 <img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
 

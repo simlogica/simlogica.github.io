@@ -74,7 +74,7 @@ plugins:
           build: true
           site_description: Criadores do Blocker Call Controller e Antispam App.
           nav_translations:
-            Blocker App: App Blocker
+            Blocker App: Blocker App
             Configuring Blocker: Configurando o Blocker
             FAQ: Dúvidas Frequentes
             Privacy Policy: Política de Privacidade

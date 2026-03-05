@@ -17,6 +17,11 @@ h1, h2, h3, h4 {
   font-weight: 500; /* Usually 700 by default; 500 is much cleaner */
 }
 
+/* Bold text (**word**) needs extra weight to stand out from the light body */
+.md-typeset strong {
+  font-weight: 600;
+}
+
 /* 3. Navigation: Lightening the sidebar and TOC */
 .md-nav__link {
   font-weight: 380;

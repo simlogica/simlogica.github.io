@@ -2,7 +2,7 @@
 
 Bem vindo à **SimLogica**, criadora do **Blocker Controle de Chamadas**.
 
-O Blocker transforma chamadas telefônicas perturbadoras em notificações agradáveis.
+**O Blocker transforma chamadas telefônicas perturbadoras em notificações agradáveis.**
 
 ## Blocker Controle de Chamadas
 

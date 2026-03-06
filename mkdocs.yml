@@ -60,6 +60,7 @@ nav:
   - Terms of Use: terms/index.md
 
 plugins:
+  - social
   - search
   - i18n:
       docs_structure: suffix      # files like index.pt-BR.md, index.pt-PT.md
@@ -79,8 +80,6 @@ plugins:
             FAQ: Dúvidas Frequentes
             Privacy Policy: Política de Privacidade
             Terms of Use: Termos de Uso
-  - social:
-      cards_layout: default
   - minify:
       minify_html: true
   - redirects: # Redirect URLS

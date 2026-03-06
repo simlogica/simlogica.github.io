@@ -9,9 +9,9 @@ social:
   cards: false
 meta:
   - property: og:title
-    content: "SimLogica.com – Home of Blocker Call Controller"
+    content: "SimLogica.com – Criadora do Blocker Controle de Chamadas"
   - property: og:description
-    content: "Blocker transforms annoying phone calls into pleasant notifications."
+    content: "Blocker transforma chamadas telefônicas perturbadoras em notificações agradáveis."
   - property: og:image
     content: "https://simlogica.github.io/common/images/blocker_feature_graphic.png"
   - property: og:url

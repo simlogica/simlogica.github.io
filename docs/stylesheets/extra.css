@@ -1,5 +1,6 @@
 /* --- SHARED VARIABLES --- */
 :root {
+  --headers-color: #ffffff;
   --brand-yellow: #ffca27;
   --brand-yellow-light: #ff872b;
   --brand-yellow-dark: #f5b000;
@@ -9,11 +10,14 @@
 body {
   font-weight: 300; /* Adjust this number to get that "slightly lighter" look */
   -webkit-font-smoothing: antialiased; /* Makes thin fonts look crisper on Mac/iOS */
-  letter-spacing: -0.01em; /* Inter looks great with a tiny bit of tightening */
+  /* letter-spacing: -0.005em; /* Inter looks great with a tiny bit of tightening */
 }
 
 /* 2. Headings: Making them "Semi-Light" so they don't feel bulky */
-h1, h2, h3, h4 {
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
   font-weight: 500; /* Usually 700 by default; 500 is much cleaner */
 }
 
@@ -42,6 +46,19 @@ h1, h2, h3, h4 {
   --md-typeset-a-color: #d49a00;
 }
 
+[data-md-color-scheme="default"] .md-header {
+  background-color: var(--brand-yellow);
+  color: #222222;
+  border-bottom: 1px solid var(--brand-yellow-dark);
+}
+
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3,
+[data-md-color-scheme="default"] .md-typeset h4 {
+  color: #333333;
+}
+
 /* --- DARK MODE --- */
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: var(--brand-yellow);
@@ -55,4 +72,11 @@ h1, h2, h3, h4 {
   background-color: #1a1a1c;
   color: var(--brand-yellow);
   border-bottom: 1px solid var(--brand-yellow-dark);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4 {
+  color: #ffffff;
 }

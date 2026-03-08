@@ -37,6 +37,15 @@ body {
   color: var(--md-typeset-a-color);
 }
 
+/* --- TABLE FONT SIZES --- */
+.md-typeset table:not([class]) th {
+  font-size: 0.80rem;   /* Adjust header size as needed */
+}
+
+.md-typeset table:not([class]) td {
+  font-size: 0.75rem;   /* Adjust cell/content size as needed */
+}
+
 /* --- LIGHT MODE --- */
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: var(--brand-yellow);

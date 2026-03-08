@@ -29,11 +29,10 @@ Você define as regras para os três grupos de chamadas:
 
 Para cada grupo, escolha uma destas três ações:
 
-|        🔔<br>**TOCAR**        |                                                                 🔮<br>**NOTIFICAR**                                                                  |                                    🔕<br>**DESLIGAR**                                     |
-|:----------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
-| O tradicional toque alto do telefone. | A função principal do Blocker! Silencia o toque padrão, mas toca um som curto e agradável, acompanhado de uma vibração e uma notificação na tela. | Envia a chamada imediatamente para a caixa de voz sem acender a tela. |
+|        🔔<br>**TOCAR**        |                                                                  🔮<br>**NOTIFICAR**                                                                  |                                    🔕<br>**DESLIGAR**                                     |
+|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| O tradicional toque alto do telefone. | **A função principal do Blocker!** Silencia o toque padrão, mas toca um som curto e agradável, acompanhado de uma vibração e uma notificação na tela. | Envia a chamada imediatamente para a caixa de voz sem acender a tela. |
 
-<br>
 <img src="/home/screen1.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã inicial do Blocker">
 <img src="/home/screen2.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã de alertas do Blocker">
 
@@ -41,19 +40,22 @@ _(Todas as chamadas interceptadas pelo Blocker continuam visíveis no seu histó
 
 ### 🌟 Funções Super Úteis
 
-• **Permissão de chamadas de urgência**
-> Esperando uma chamada importante de um número desconhecido? Se o mesmo número ligar 3 vezes dentro de 15 minutos, o Blocker vai automaticamente permitir a ligação **TOCAR**.
+| **Permissão de chamadas de urgência** |
+|:---|
+| Esperando uma chamada importante de um número desconhecido? Se o mesmo número ligar 3 vezes dentro de 15 minutos, o Blocker vai automaticamente permitir a ligação **TOCAR**. |
 
-• **Combata o Spam de forma pacífica**
-> Defina chamadas **DESCONHECIDAS** para **NOTIFICAR**. Você recebe um som discreto e agradável ao invés de um barulho agressivo. Responda quando for conveniente ou deixe passar.
+| **Combata o Spam de forma pacífica** |
+|:---|
+| Defina chamadas **DESCONHECIDAS** para **NOTIFICAR**. Você recebe um som discreto e agradável ao invés de um barulho agressivo. Responda quando for conveniente ou deixe passar. |
 
-• **Predefinidos Rápidos**
-> Alterne entre nossos modos de ajustes predefinidos **Padrão** e **Concentrar**.
+| **Predefinidos Rápidos** |
+|:---|
+| Alterne entre nossos modos de ajustes predefinidos **Padrão** e **Concentrar**. |
 
-• **Menu Completo de Configurações**
-> Agrupamos todas as configurações relacionadas a chamadas telefônicas do seu dispositivo em um único menu de fácil acesso.
+| **Menu Completo de Configurações** |
+|:---|
+| Agrupamos todas as configurações relacionadas a chamadas telefônicas do seu dispositivo em um único menu de fácil acesso. |
 
-<br>
 <img src="/home/screen3.png" style="max-width: 40%; height: auto;" alt="Tela/Ecrã de configurações do Blocker">
 
 ### 🧘 Retome o Foco

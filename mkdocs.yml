@@ -60,7 +60,9 @@ nav:
   - Terms of Use: terms/index.md
 
 plugins:
-  - social
+  - social:
+      cards_layout_options:
+        background_color: "#1e2129"
   - search
   - i18n:
       docs_structure: suffix      # files like index.pt-BR.md, index.pt-PT.md

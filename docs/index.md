@@ -22,14 +22,14 @@ Blocker intercepts incoming calls and follows a personalized handling strategy b
 
 You define the rules for three contact groups:
 
-|                        ⭐<br>**FAVORITES**                        |          😃<br>**CONTACTS**           |        ❓<br>**UNKNOWN**        |
-|:----------------------------------------------------------------:|:-------------------------------------:|:------------------------------:|
-| The contacts you favorited in your phonebook. _(Not speed dial)_ | The other contacts in your phonebook. | Numbers not in your phonebook. |
+| ⭐<br>**FAVORITES** | 😃<br>**CONTACTS** | ❓<br>**UNKNOWN** |
+|:---:|:---:|:---:|
+| The contacts you favorited in your phonebook. _(Not speed dial)_ | The other contacts in your phonebook. |  Numbers not in your phonebook.  |
 
 For each group, choose one of three actions:
 
-|        🔔<br>**RING**        |                                                                   🔮<br>**NOTIFY**                                                                    |                                    🔕<br>**DROP**                                     |
-|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| 🔔<br>**RING** | 🔮<br>**NOTIFY** | 🔕<br>**DROP** |
+|:---:|:---:|:---:|
 | The normal, loud phone ring. | **Blocker's signature feature!** Silences the main ringer but plays a customizable, short sound with vibration. The visual call screen still appears. | Sends the call immediately to voicemail without waking up your screen. Total silence. |
 
 <img src="/home/screen1.png" style="max-width: 40%; height: auto;" alt="Blocker Home screen">
@@ -39,8 +39,8 @@ _(All handled calls remain visible in your phone's default Call History. Blocker
 
 ### 🌟 Powerful Core Features
 
-| **Emergency Bypass**                                                                                                                                  |
-|:------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Emergency Bypass** |
+|:---|
 | Expecting an urgent call from an unknown number? If the same number calls 3 times within 15 minutes, Blocker will automatically allow it to **RING**. |
 
 | **Beat Spam Peacefully** |

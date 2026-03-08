@@ -23,14 +23,14 @@ O Blocker intercepta chamadas telefônicas e segue uma estratégia personalizada
 Você define as regras para os três grupos de chamadas:
 
 
-|                           ⭐<br>**FAVORITOS**                            |                        😃<br>**CONTATOS**                        |      ❓<br>**DESCONHECIDOS**      |
-|:-----------------------------------------------------------------------:|:----------------------------------------------------------------:|:--------------------------------:|
-|  Os contatos favoritados na sua agenda. _(Não são os discagem rápida)_  |                Os outros contatos da sua agenda.                 | Números que não estão na agenda. |
+| ⭐<br>**FAVORITOS** | 😃<br>**CONTATOS** | ❓<br>**DESCONHECIDOS** |
+|:---:|:---:|:---:|
+| Os contatos favoritados na sua agenda. _(Não são os discagem rápida)_ | Os outros contatos da sua agenda. | Números que não estão na agenda. |
 
 Para cada grupo, escolha uma destas três ações:
 
-|        🔔<br>**TOCAR**        |                                                                  🔮<br>**NOTIFICAR**                                                                  |                                    🔕<br>**DESLIGAR**                                     |
-|:----------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| 🔔<br>**TOCAR** | 🔮<br>**NOTIFICAR** | 🔕<br>**DESLIGAR** |
+|:---:|:---:|:---:|
 | O tradicional toque alto do telefone. | **A função principal do Blocker!** Silencia o toque padrão, mas toca um som curto e agradável, acompanhado de uma vibração e uma notificação na tela. | Envia a chamada imediatamente para a caixa de voz sem acender a tela. |
 
 <img src="/home/screen1.png" style="max-width: 40%; height: auto;" alt="Tela/ecrã inicial do Blocker">

@@ -28,6 +28,10 @@ O Blocker irá seguir suas regras de Não Perturbe e também permitirá chamadas
 
 No momento, o Blocker não filtra chamadas de WhatsApp ou Teams, nem de qualquer outra chamada proveniente de aplicativos. Ele apenas lida com chamadas telefônicas. Esta é uma limitação técnica da plataforma Android.
 
+### Existe uma versão para iPhone?
+
+Ainda não, mas estamos analisando a possibilidade.
+
 ### Pode uma chamada ser identificada como "DESCONHECIDO" pelo Blocker, mas o Aplicativo de Chamadas mostra como um Contato legítimo?
 
 Muito raramente, é possível. Alguns Aplicativos de Chamadas têm uma estratégia muito *agressiva* para identificar contatos, o que às vezes pode levar a um falso positivo. Em particular, se o número na agenda foi registrado sem o prefixo de longa distância.

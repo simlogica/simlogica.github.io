@@ -4,18 +4,17 @@ Welcome to **SimLogica.com**, the home of **Blocker Smart Call Controller** App.
 
 Transform annoying phone calls into pleasant notifications and take back control of your phone!
 
+<img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
+
 **Blocker** is an innovative call management app designed to handle incoming mobile calls on your terms.
+
+[ :material-google-play: Get it on Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
+
+## Blocker Smart Call Controller
 
 Tired of loud, disruptive spam rings? Blocker replaces annoying unknown calls with short, pleasant sound notifications — bringing peace of mind and focus back to your daily life.
 
 Spam calls will never break your concentration again. Loud, unexpected rings are a thing of the past!
-
-## Blocker Smart Call Controller
-
-<br>
-<img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
-
-[ :material-google-play: Get it on Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
 
 ### 🛠️ How does Blocker work?
 
@@ -23,20 +22,15 @@ Blocker intercepts incoming calls and follows a personalized handling strategy b
 
 You define the rules for three contact groups:
 
-⭐ **FAVORITES**<br>
-😃 **CONTACTS** — _people in your Phonebook_<br>
-❓ **UNKNOWN** — _numbers not in your Phonebook_
+|                             ⭐ **FAVORITES**                              | 😃 **CONTACTS** | ❓ **UNKNOWN** |
+|:------------------------------------------------------------------------:|:----------------:|:----------------:|
+|     The contacts you favorited in your phonebook. _(not speed dial)_     | The other contacts in your phonebook. | Numbers not in your phonebook. |
 
 For each group, choose one of three actions:
 
-🔔 **RING**<br>
-> The normal, loud phone ring.
-
-🎵 **NOTIFY**<br>
-> Blocker's signature feature! Silences the main ringer but plays a customizable, short sound with vibration. The visual call screen still appears.
-
-🔕 **DROP**<br>
-> Sends the call immediately to voicemail without waking up your screen. Total silence.
+|         🔔 **RING**          |                                                                  🔮 **NOTIFY**                                                                   |                                      🔕 **DROP**                                      |
+|:----------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| The normal, loud phone ring. |Blocker's signature feature! Silences the main ringer but plays a customizable, short sound with vibration. The visual call screen still appears. | Sends the call immediately to voicemail without waking up your screen. Total silence. |
 
 <br>
 <img src="/home/screen1.png" style="max-width: 40%; height: auto;" alt="Blocker Home screen">

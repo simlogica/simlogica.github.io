@@ -4,18 +4,17 @@ Bem-vindo à **SimLogica**, criadora do App **Blocker Controle Inteligente de Ch
 
 Transforme o toque alto das chamadas telefônicas em notificações agradáveis e reobtenha o controle do seu telefone!
 
+<img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Banner Principal do Blocker">
+
 O **Blocker** é um app inovador de gestão de chamadas telefônicas criado para fazer o seu telefone funcionar do seu jeito.
+
+[ :material-google-play: Disponível no Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
+
+## Blocker Controle Inteligente de Chamadas
 
 Basta de toques altos e chamadas de spam intrusivas. O Blocker substitue chamadas desconhecidas perturbadoras por toques curtos e agradáveis trazendo de volta paz de espírito e foco ao seu dia-a-dia.
 
 Chamadas de spam jamais perturbarão a sua concentração. Toques altos e inesperados são coisas do passado!
-
-## Blocker Controle Inteligente de Chamadas
-
-<br>
-<img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Banner Principal do Blocker">
-
-[ :material-google-play: Disponível no Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
 
 ### 🛠️ Como o Blocker funciona?
 

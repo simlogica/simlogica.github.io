@@ -28,6 +28,10 @@ Blocker will follow your DND rules and also allow Emergency calls from Emergency
 
 Currently, Blocker does not filter WhatsApp or Teams calls, nor any other call from apps. It only handles phone calls. This is a technical limitation of the Android platform.
 
+### Is there an iPhone version?
+
+Not yet but we are analyzing the possibility.
+
 ### Can a call be identified as "UNKNOWN" by Blocker, but the Phone Call App shows it as a Contact?
 
 Very rarely. It is possible. Some Phone Call Apps have a very *aggressive* strategy to identify contacts, which, by the way, can sometimes lead to a mismatch. Especially if the number in the Phone Book was recorded without the long-distance prefix.

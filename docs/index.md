@@ -1,35 +1,87 @@
----
-hide:
-  - navigation
-  - toc
-  - footer
-search:
-  exclude: true
-social:
-  cards: false
-meta:
-  - property: og:title
-    content: "SimLogica.com – Home of Blocker Call Controller"
-  - property: og:description
-    content: "Blocker transforms annoying phone calls into pleasant notifications."
-  - property: og:image
-    content: "https://simlogica.github.io/common/images/blocker_feature_graphic.png"
-  - property: og:url
-    content: "https://simlogica.github.io/"
-  - property: og:type
-    content: website
----
+# Blocker App
 
-<script>
-  (function () {
-    var path = window.location.pathname;
-    // Detect language prefix, e.g. /pt/
-    var langMatch = path.match(/^\/([a-z]{2}(?:-[a-z]{2,4})?)\//i);
-    var lang = langMatch ? langMatch[1] : null;
-    var base = document.querySelector('meta[name="site_url"]') 
-               ? document.querySelector('meta[name="site_url"]').content 
-               : '/';
-    var target = lang ? '/' + lang + '/blocker/' : '/blocker/';
-    window.location.replace(target);
-  })();
-</script>
+Welcome to **SimLogica.com**, the home of **Blocker Smart Call Controller** App.
+
+Transform annoying phone calls into pleasant notifications and take back control of your phone!
+
+**Blocker** is an innovative call management app designed to handle incoming mobile calls on your terms.
+
+Tired of loud, disruptive spam rings? Blocker replaces annoying unknown calls with short, pleasant sound notifications — bringing peace of mind and focus back to your daily life.
+
+Spam calls will never break your concentration again. Loud, unexpected rings are a thing of the past!
+
+## Blocker Smart Call Controller
+
+<br>
+<img src="/common/images/blocker_feature_graphic.png" style="max-width: 100%; height: auto;" alt="Blocker Feature Banner">
+
+[ :material-google-play: Get it on Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
+
+### 🛠️ How does Blocker work?
+
+Blocker intercepts incoming calls and follows a personalized handling strategy based on who is calling.
+
+You define the rules for three contact groups:
+
+⭐ **FAVORITES**<br>
+😃 **CONTACTS** — _people in your Phonebook_<br>
+❓ **UNKNOWN** — _numbers not in your Phonebook_
+
+For each group, choose one of three actions:
+
+🔔 **RING**<br>
+> The normal, loud phone ring.
+
+🎵 **NOTIFY**<br>
+> Blocker's signature feature! Silences the main ringer but plays a customizable, short sound with vibration. The visual call screen still appears.
+
+🔕 **DROP**<br>
+> Sends the call immediately to voicemail without waking up your screen. Total silence.
+
+<br>
+<img src="/home/screen1.png" style="max-width: 40%; height: auto;" alt="Blocker Home screen">
+<img src="/home/screen2.png" style="max-width: 40%; height: auto;" alt="Blocker Alerts screen">
+
+_(All handled calls remain visible in your phone's default Call History. Blocker simply stops the loud ringing for groups you choose to Notify or Drop)_.
+
+### 🌟 Powerful Core Features
+
+• **Emergency Bypass**
+> Expecting an urgent call from an unknown number? If the same number calls 3 times within 15 minutes, Blocker will automatically allow it to **RING**.
+
+• **Beat Spam Peacefully**
+> Set **UNKNOWN** callers to **NOTIFY**. You get a subtle, pleasant "ping" instead of a loud disruption. Pick up if it's convenient or let it slide.
+
+• **Quick Presets**
+> Switch effortlessly between our built-in **Default** and **Focus** modes.
+
+• **All-in-One Settings Menu**
+> We’ve grouped all your phone’s scattered call-related settings into one fast, easy-to-access menu.
+
+<br>
+<img src="/home/screen3.png" style="max-width: 40%; height: auto;" alt="Blocker Settings screen">
+
+### 🧘 Regain Your Focus
+
+Blocker was built to let you focus on what truly matters. After just one week of using Blocker, you’ll feel at peace with your phone. It’s perfect for:
+
+• Studying or working deeply<br>
+• Important business meetings<br>
+• Meditating or resting<br>
+• Getting rid of daily spam interruptions<br>
+
+### 🔒 Your Privacy First
+
+Blocker is extremely lightweight, blazing-fast, and leaves a negligible battery footprint. Most importantly, it is built with a strict privacy-first design. We do not collect, store, or share your personal data or call logs. Check our [Privacy Policy](privacy/index.md).
+
+### 💎 Try It Free!
+
+Experience the Blocker way for free and feel the difference! Blocker is free to use with no limitations on its core features.
+
+[ :material-google-play: Get it on Google Play ](https://play.google.com/store/apps/details?id=com.simlogica.callcontroller){ .md-button .md-button--primary }
+
+If Blocker brings peace to your daily life, please consider supporting our future development by purchasing it via a small, one-time in-app purchase **(set to the minimum price allowed in your region!)**.
+
+**Download Blocker today and put yourself peacefully back in control**.
+
+_(Enjoying the app? Please leave us a 5-star review!)_

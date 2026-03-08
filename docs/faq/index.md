@@ -20,23 +20,25 @@ Your call app will still show all notifications from received calls that you did
 
 ### What happens if my device is Muted or Do Not Disturb is On?
 
-Blocker follows your device's Mute or Do Not Disturb settings. If your device is muted or Do Not Disturb is on, Blocker will not play short sounds on incoming calls. And calls will not ring. Unless they are **PRIORITY CALLS**. This ensures that you are not disturbed by unwanted calls when you have set your device to a quiet mode.
+Blocker follows your device's Mute or Do Not Disturb settings. If your device is muted or Do Not Disturb is on, Blocker will not play short sounds on incoming calls. And calls will not ring. Unless they are **PRIORITY CALLS** following your device's settings. This ensures that you are not disturbed by unwanted calls when you have set your device to a quiet mode.
 
 Blocker will follow your DND rules and also allow Emergency calls from Emergency Services.
 
 ### Does Block filter WhatsApp or Teams calls?
 
-Currently, Blocker does not filter WhatsApp or Teams calls, nor any other call from apps. It only handles phone calls.
+Currently, Blocker does not filter WhatsApp or Teams calls, nor any other call from apps. It only handles phone calls. This is a technical limitation of the Android platform.
 
 ### Can a call be identified as "UNKNOWN" by Blocker, but the Phone Call App shows it as a Contact?
 
-Very rarely, it is possible. Some Phone Call Apps have a very *aggressive* strategy to identify contacts, which, by the way, can sometimes lead to a mismatch. Especially if the number in the Phone Book was recorded without the long-distance prefix.
+Very rarely. It is possible. Some Phone Call Apps have a very *aggressive* strategy to identify contacts, which, by the way, can sometimes lead to a mismatch. Especially if the number in the Phone Book was recorded without the long-distance prefix.
+
+Blocker tries to align with most vendor strategies to identify contacts.
 
 ### Can Blocker rarely miss a call and let the phone ring by mistake?
 
-Unfortunately, yes. This happens because of Android, not Blocker.  Android sometimes fails to handle the call to blocker and rings anyway.
+Unfortunately, yes. This happens because of external reasons, not Blocker. 
 
-This happens because of a few reasons. Heavy system load, device aggressive battery optimizations, processes dormancy.
+This happens because of a few reasons. Heavy system load, device aggressive battery optimizations, processes dormancy. Sometimes also Android fails to handle the incomming call to blocker and rings anyway.
 
 Make sure Blocker is not in an app dormant list.
 
@@ -44,7 +46,7 @@ Some spammers may have GSM network privileged access and put calls with special 
 
 ### So Blocker isn't perfect, but it is worth it?
 
-YES!! For sure!! 100%. All the users we tested Blocker with before launching the App, reported starting to have a more healthy and peaceful relationship with mobile phone calls.
+YES! For sure! 100%. All the users that tested Blocker in its early phase reported starting to have a more healthy and peaceful relationship with mobile phone calls.
 
 It is a life changer for most of them. Don't take our word for granted. Try Blocker for a few days and see for yourself.
 
@@ -61,7 +63,7 @@ Blocker will then show you the top banner asking your permission to be the "Call
 
 ### How do I restore my purchase?
 
-Go to **Settings > Restore Purchase**. Make sure you are logged into the same Google account used to buy the app.
+It should be automatically handled by Blocker. But you can manually click on **Settings > Restore purchase**. Make sure you are logged in your device into the same Google account used to buy the app.
 
 ### What to do if the app is crashing?
 
@@ -69,4 +71,6 @@ That should not be happening at all. Our apologies. Please try clearing the app 
 
 ### Is Blocker an Antispam App?
 
-Yes, Blocker is an Antispam App. But not in the traditional sense. It is not a filter that tries to guess spam calls, it is just a different (and we think it is a more clever) approach to the issue. It's **NOTIFY** feature allows us to just ignore spam most of the time without much interference on what we are doing.
+We think it is even better. Set **UNKNOWN** callers to **NOTIFY**. You get a subtle, pleasant "ping" instead of a loud disruption. Pick up if it's convenient or let it slide.
+
+Spam will never be a problem any more.

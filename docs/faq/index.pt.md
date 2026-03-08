@@ -8,7 +8,7 @@
 
 Sim, todos os dados são armazenados localmente no seu dispositivo e protegidos pelo sistema do Android. Não enviamos os seus dados pessoais para nenhum servidor. Leia mais na nossa [Política de Privacidade](../privacy/index.md).
 
-### Como configuro as Permissões do Android?
+### Como configuro as Permissões do Blocker no Android?
 
 Leia nosso [guia extremamente fácil](../configure/index.md) sobre isso.
 
@@ -20,13 +20,13 @@ O seu aplicativo de chamadas continuará a apresentar todas as notificações de
 
 ### O que acontece se meu dispositivo estiver Mudo ou o Modo Não Perturbe estiver Ligado?
 
-O Blocker respeita as configurações de Mudo ou Não Perturbe do seu dispositivo. Se seu dispositivo estiver mudo ou o Modo Não Perturbe estiver ligado, Blocker não irá tocar um som curto nas chamadas recebidas. E as chamadas não irão tocar, a menos que sejam **CHAMADAS DE PRIORIDADE**. Isso garante que você não seja incomodado por chamadas indesejadas quando você configurou seu dispositivo para um modo silencioso.
+O Blocker respeita as configurações de Mudo ou Não Perturbe do seu dispositivo. Se seu dispositivo estiver mudo ou o Modo Não Perturbe estiver ligado, Blocker não irá tocar um som curto nas chamadas recebidas. E as chamadas não irão tocar, a menos que sejam **CHAMADAS PRIORITÁRIAS** segundo as definições do seu dispositivo. Isso garante que você não seja incomodado por chamadas indesejadas quando você configurou seu dispositivo para um modo silencioso.
 
 O Blocker irá seguir suas regras de Não Perturbe e também permitirá chamadas de emergência de serviços de emergência.
 
 ### O Blocker filtra chamadas de WhatsApp ou Teams?
 
-No momento, o Blocker não filtra chamadas de WhatsApp ou Teams, nem de qualquer outra chamada proveniente de aplicativos. Ele apenas lida com chamadas telefônicas.
+No momento, o Blocker não filtra chamadas de WhatsApp ou Teams, nem de qualquer outra chamada proveniente de aplicativos. Ele apenas lida com chamadas telefônicas. Esta é uma limitação técnica da plataforma Android.
 
 ### Pode uma chamada ser identificada como "DESCONHECIDO" pelo Blocker, mas o Aplicativo de Chamadas mostra como um Contato legítimo?
 
@@ -44,9 +44,9 @@ Alguns spammers podem ter acesso privilegiado à rede GSM e realizar chamadas co
 
 ### Então o Blocker não é perfeito, mas vale a pena?
 
-SIM!! Com certeza!! 100%. Todos os usuários com quem testamos o Blocker antes de lançarmos o aplicativo relataram começar a ter uma relação mais saudável e tranquila com as chamadas de celular.
+SIM! Com certeza! 100%. Todos os usuários que testaram o Blocker para o seu lançamento relataram começar a ter uma relação mais saudável e tranquila com as chamadas de celular.
 
-É um divisor de águas para a maioria deles. Não tome nossa palavra como certeza. Tente o Blocker por alguns dias e veja por si mesmo.
+É um divisor de águas no dia-a-dia para a maioria deles. Não tome nossa palavra como certeza. Teste o Blocker por alguns dias e veja por si.
 
 ### Posso desativar o Blocker temporariamente?
 
@@ -61,7 +61,7 @@ O Blocker então mostrará o banner superior solicitando sua permissão para ser
 
 ### Como restauro minha compra?
 
-Vá em **Configurações > Restaurar Compra**. Certifique-se de estar conectado à mesma conta Google utilizada para comprar o app.
+O Blocker faz isso automaticamente. Mas se necessário, clique em **Configurações > Restaurar compra**. Certifique-se de estar conectado no seu dispositivo à mesma conta Google utilizada para comprar o app.
 
 ### O que fazer se o app estiver travando?
 
@@ -69,4 +69,6 @@ Isso não deveria acontecer de jeito nenhum. Pedimos desculpas. Por favor, tente
 
 ### O Blocker é um App Antispam?
 
-Sim, o Blocker é um App Antispam. Mas não em um sentido tradicional. Ele não é um filtro que tenta adivinhar chamadas de spam, ele é apenas uma abordagem diferente (e achamos que é uma abordagem mais inteligente) para o problema. Sua função **NOTIFICAR** permite-nos ignorar spam na maioria das vezes sem muita interferência no que estamos fazendo.
+Acreditamos que o Blocker seja ainda melhor que os Apps Antispam tradicionais. Configure **DESCONHECIDOS** para **NOTIFICAR**. Você recebe um "ping" suave e agradável em vez de uma interrupção agressiva. Responda se for conveniente ou deixe passar.
+
+Spam nunca mais será um problema.

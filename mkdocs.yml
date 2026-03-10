@@ -1,5 +1,5 @@
-site_name: SimLogica.com
-site_description: The home of Blocker Smart Call Controller and Antispam App.
+site_name: SimLogica | Smart Call Controller & Antispam App
+site_description: Transform annoying phone calls into pleasant notifications and take back control of your phone!
 site_author: SimLogica.com
 site_url: https://simlogica.github.io/
 
@@ -75,7 +75,8 @@ plugins:
         - locale: pt
           name: Português
           build: true
-          site_description: Criadores do Blocker Controle Inteligente de Chamadas e Antispam App.
+          site_name: SimLogica | Controle Inteligente de Chamadas e Antispam App
+          site_description: Transforme chamadas telefônicas perturbadoras em notificações agradáveis e retome controle do seu telefone!
           nav_translations:
             Blocker App: Blocker App
             Configuring Blocker: Configurando o Blocker

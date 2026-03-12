@@ -63,7 +63,7 @@ plugins:
   - social:
       cards_layout: default/variant
       cards_layout_options:
-        background_image: docs/common/images/social_card_background2.jpg
+        background_image: docs/common/images/social_card_background3.jpg
         background_color: "#00000055"
         font_variant: Condensed
         color: "#ffca27"

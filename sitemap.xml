@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://simlogica.github.io/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/configure/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/configure/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/configure/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/faq/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/faq/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/faq/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/privacy/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/privacy/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/privacy/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/terms/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/terms/"/>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/terms/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/pt/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/pt/configure/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/configure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/configure/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/pt/faq/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/faq/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/faq/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/pt/privacy/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/privacy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/privacy/"/>
+    </url>
+    <url>
+        <loc>https://simlogica.github.io/pt/terms/</loc>
+        <lastmod>2026-03-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="pt" href="https://simlogica.github.io/pt/terms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://simlogica.github.io/terms/"/>
+    </url>
+</urlset>

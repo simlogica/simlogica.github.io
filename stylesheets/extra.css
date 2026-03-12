@@ -1,0 +1,91 @@
+/* --- SHARED VARIABLES --- */
+:root {
+  --headers-color: #ffffff;
+  --brand-yellow: #ffca27;
+  --brand-yellow-light: #ff872b;
+  --brand-yellow-dark: #f5b000;
+  --md-text-font: "Inter", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-weight: 300; /* Adjust this number to get that "slightly lighter" look */
+  -webkit-font-smoothing: antialiased; /* Makes thin fonts look crisper on Mac/iOS */
+  /* letter-spacing: -0.005em; /* Inter looks great with a tiny bit of tightening */
+}
+
+/* 2. Headings: Making them "Semi-Light" so they don't feel bulky */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4 {
+  font-weight: 500; /* Usually 700 by default; 500 is much cleaner */
+}
+
+/* Bold text (**word**) needs extra weight to stand out from the light body */
+.md-typeset strong {
+  font-weight: 600;
+}
+
+/* 3. Navigation: Lightening the sidebar and TOC */
+.md-nav__link {
+  font-weight: 380;
+}
+
+/* 4. Active Navigation: Slightly bolder to show where you are */
+.md-nav__link--active {
+  font-weight: 500;
+  color: var(--md-typeset-a-color);
+}
+
+/* --- TABLE FONT SIZES --- */
+.md-typeset table:not([class]) th {
+  font-size: 0.80rem;   /* Adjust header size as needed */
+}
+
+.md-typeset table:not([class]) td {
+  font-size: 0.75rem;   /* Adjust cell/content size as needed */
+}
+
+/* --- LIGHT MODE --- */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--brand-yellow);
+  --md-primary-fg-color--light: var(--brand-yellow-light);
+  --md-primary-fg-color--dark: var(--brand-yellow-dark);
+  --md-primary-bg-color: #222222; /* Dark text on yellow buttons/header */
+  --md-typeset-a-color: #d49a00;
+}
+
+[data-md-color-scheme="default"] .md-header {
+  background-color: var(--brand-yellow);
+  color: #222222;
+  border-bottom: 1px solid var(--brand-yellow-dark);
+}
+
+[data-md-color-scheme="default"] .md-typeset h1,
+[data-md-color-scheme="default"] .md-typeset h2,
+[data-md-color-scheme="default"] .md-typeset h3,
+[data-md-color-scheme="default"] .md-typeset h4 {
+  color: #333333;
+}
+
+/* --- DARK MODE --- */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--brand-yellow);
+  --md-primary-fg-color--light: var(--brand-yellow-light);
+  --md-primary-fg-color--dark: var(--brand-yellow-dark);
+  --md-primary-bg-color: #222222; /* Dark text on yellow buttons/header */
+  --md-accent-fg-color: var(--brand-yellow-light); /* Orange for hover contrast */
+}
+
+[data-md-color-scheme="slate"] .md-header {
+  background-color: #1a1a1c;
+  color: var(--brand-yellow);
+  border-bottom: 1px solid var(--brand-yellow-dark);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3,
+[data-md-color-scheme="slate"] .md-typeset h4 {
+  color: #ffffff;
+}

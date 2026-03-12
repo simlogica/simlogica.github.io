@@ -1,5 +1,5 @@
 ---
-title: Blocker | Smart Call Controller & Antispam App
+title: Blocker | Smart Call Controller & Antispam
 description: Transform annoying phone calls into pleasant notifications and take back control of your phone!
 ---
 

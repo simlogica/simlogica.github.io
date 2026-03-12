@@ -1,5 +1,5 @@
 ---
-title: SimLogica | Controle Inteligente de Chamadas e Antispam App
+title: Blocker | Controle Inteligente de Chamadas e Antispam App
 description: Transforme chamadas telefônicas perturbadoras em notificações agradáveis e retome controle do seu telefone!
 ---
 

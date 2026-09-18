@@ -1,0 +1,35 @@
+.page-search-trigger {
+    margin: 0px 0px 20px 0px;
+    max-width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 20px;
+    border-radius: 0.8rem;
+    border: 1px solid var(--md-default-fg-color--light);
+    background-color: var(--md-default-bg-color);
+    box-shadow: var(--md-shadow-z1);
+    cursor: text;
+    user-select: none;
+}
+
+.page-search-trigger:hover {
+    background-color: var(--md-default-bg-color--dark);
+    box-shadow: var(--md-shadow-z2);
+}
+
+.page-search-trigger svg {
+    width: 1.5rem;
+    height: 1.5rem;
+    fill: var(--md-primary-fg-color);
+    flex-shrink: 0;
+}
+
+.page-search-trigger span {
+    font-size: 0.9rem;
+    color: var(--md-primary-fg-color--dark);
+}
+
+.page-search-trigger span:hover {
+    color: var(--md-accent-fg-color);
+}
